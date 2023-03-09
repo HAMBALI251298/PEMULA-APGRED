@@ -1,0 +1,5 @@
+apt update && apt upgdate
+
+apt install Hollywood
+
+hollywood
