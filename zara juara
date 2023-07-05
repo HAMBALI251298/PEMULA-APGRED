@@ -1,0 +1,367 @@
+
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<title>ZARA4D</title>
+<meta name="keywords" content="TOGEL ONLINE"/>
+<meta name="description" content="TOGEL ONLINE"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.css"></link>
+<link rel="stylesheet" type="text/css" href="https://sinardewa.com/idn_l21_design/zara4d/lama/title_mobile.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://sinardewa.com/idn_l21_design/zara4d/lama/title_mobile.js"></script>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<meta name="apple-mobile-web-app-title" content="zarajuara Mobile">
+	<meta http-equiv="msthemecompatible" content="no">
+	        <link rel="icon" type="image/png" href="../assets/img/abu/favicon.png" />
+			<link rel="shortcut icon" type="image/png" href="../assets/img/abu/favicon.png" />
+		
+	
+	<!-- <a href='' target="event"></a> -->
+	
+<link href="assets/css/style.css" rel="stylesheet" type="text/css">
+<link href="assets/css/abu/style.css" rel="stylesheet" type="text/css">
+<style type="text/css"> 
+	.footer {
+		z-index: 1;
+	}
+</style>
+<link href="assets/css/abu/framework.css" rel="stylesheet" type="text/css">
+<link href="assets/css/owl.carousel.css" rel="stylesheet" type="text/css">
+<link href="assets/css/owl.theme.css" rel="stylesheet" type="text/css">
+<link href="assets/css/swipebox.css" rel="stylesheet" type="text/css">
+<link href="assets/css/colorbox.css" rel="stylesheet" type="text/css">
+<link href="assets/css/li-scroller.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="assets/js/socket.io.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.js"></script>
+<script type="text/javascript" src="assets/js/jqueryui.js"></script>
+<script type="text/javascript" src="assets/js/owl.carousel.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.swipebox.js"></script>
+<script type="text/javascript" src="assets/js/jquery.colorbox.js"></script>
+<script type="text/javascript" src="assets/js/snap.js"></script>
+<script type="text/javascript" src="assets/js/contact.js"></script>
+<script type="text/javascript" src="assets/js/custom.js"></script>
+<script type="text/javascript" src="assets/js/framework.js"></script>
+<script type="text/javascript" src="assets/js/framework.launcher.js"></script>
+<script language="JavaScript" type="text/javascript" src="../assets/js/jquery-cycle-all-pack.js"></script>
+<script type="text/javascript" src="assets/js/clipboard.min.js"></script>
+<script type="text/javascript" src="assets/js/clipboard.js"></script>
+<script type="text/javascript" src="sw.js"></script>
+<script type="text/javascript" src="https://dewab2b.s3.amazonaws.com/js/bundle.js"></script>	
+	
+</head>
+<link rel="stylesheet" href="assets/css/font-awesome.min.css">
+<script type="text/javascript">
+  var cacheData;
+  var dataString = {};
+  dataString["per"]="1";
+  dataString["sar"]="2";
+
+  var data = $('loadbalance').html();
+
+  function loadbalance(){
+      $('#putar2').addClass('fa-spin');
+      $("#putar2").addClass("disabled");
+        $.ajax({
+            url: 'loadbalance.php',
+            type: 'POST',
+            data: dataString,
+            dataType: 'html',
+            success: function(data) {
+                if (data !== cacheData){
+                    cacheData = data;
+                    $('#refreshbalance').html(data);
+                }
+            }
+        })
+        setTimeout(function(){ $("#putar2").removeClass('disabled'); }, 10000);
+        setTimeout(function(){ $('#putar2').removeClass('fa-spin'); }, 1500);
+  }
+</script>
+<body>
+  <div id="preloader">
+    <div id="status">
+      <p class="center-text">
+        Loading the content...
+        <em>Loading depends on your connection speed!</em>
+      </p>
+    </div>
+  </div>
+  <div class="all-elements">
+    <script type="text/javascript" src="assets/js/moment.min.js"></script>
+<script>
+  self.addEventListener('push', function(event) {
+    if (!(self.Notification && self.Notification.permission === 'granted')) {
+      return;
+    }
+    const sendNotification = params => {
+      const notif = JSON.parse(params);
+      const title = notif.title;
+      const body = notif.body;
+      const icon = notif.icon;
+      const data = {
+        redirect: notif.data.redirect
+      };
+      if (notif.data.redirect.indexOf('/tracking') >= 0) {
+        const query = notif.data.redirect.split('?')[1];
+        const params = query.split('&');
+        let obj = {};
+        params.forEach(p => {
+          let value = p.split('=');
+          obj[value[0]] = value[1];
+        });
+
+        const link = 'https://retention.dewacrm.com/tracking?id=' + obj.id + '&web_type=' + obj.web_type;
+        fetch(link);
+      }
+      return self.registration.showNotification(title, {
+        body: body,
+        icon: icon,
+        data: data
+      });
+    };
+    if (event.data) {
+      const message = event.data.text();
+      event.waitUntil(sendNotification(message));
+    }
+  });
+  self.addEventListener('notificationclick', function(event) {
+    let url = event.notification.data.redirect;
+    event.notification.close(); // Android needs explicit close.
+    event.waitUntil(
+      clients.matchAll({
+        type: 'window'
+      }).then(windowClients => {
+        for (var i = 0; i < windowClients.length; i++) {
+          var client = windowClients[i];
+          if (client.url === url && 'focus' in client) {
+            return client.focus();
+          }
+        }
+        if (clients.openWindow) {
+          return clients.openWindow(url);
+        }
+      })
+    );
+  });
+</script>
+<div id="sidebar" class="page-sidebar">
+  <div class="page-sidebar-scroll">
+    <div class="sidebar-shortcuts">
+                <div class="buttonlc" style="left: 20px;top: 10px;">
+            <a href="https://secure.livechatinc.com/licence/11495623/v2/open_chat.cgi
+" class="buttonWrap buttonlc2 button-orange" _blank>Live Chat</a>
+          </div>
+            <a href="javascript:viod(0);" class="shortcut-close"></a>
+    </div>
+    <div class="navigation-item">
+      <a href="masuk2.php" class="nav-item home-icon">HOME<em class="selected-item" class="unselected-item"></em></a>
+    </div>
+    <div class="sidebar-decoration"></div>
+    <div class="navigation-item">
+      <a href="depositwl.php" class="nav-item deposit-icon">DEPOSIT<em class="unselected-item"></em></a>
+    </div>    
+    <div class="sidebar-decoration"></div>
+    <div class="navigation-item">
+      <a href="withdraw.php" class="nav-item withdraw-icon">WITHDRAW<em class="unselected-item"></em></a>
+    </div>
+    <div class="sidebar-decoration"></div>
+    <div class="navigation-item">
+      <a href="history.php" class="nav-item history-icon">HISTORY<em class="unselected-item"></em></a>
+    </div>
+    <div class="sidebar-decoration"></div>
+    <div class="navigation-item">
+      <a href="referral.php" class="nav-item user-icon">REFERRAL<em class="unselected-item"></em></a>
+    </div>
+    <div class="sidebar-decoration"></div>
+    <div class="navigation-item">
+      <a href="transaction.php" class="nav-item play-icon">TRANSAKSI<em class="unselected-item"></em></a>
+    </div>
+    <div class="sidebar-decoration"></div>
+    <div class="navigation-item">
+      <a href="user_invoice.php" class="nav-item invoice-icon">INVOICE<em class="unselected-item"></em></a>
+    </div>
+    <div class="sidebar-decoration"></div>
+    <div class="navigation-item">
+      <a href="memo.php" class="nav-item envelope-icon">MEMO<em class="unselected-item"></em></a>
+    </div>
+    <div class="sidebar-decoration"></div>
+    <div class="navigation-item">
+      <a href="ubahpassword.php" class="nav-item password-icon">UBAH PASSWORD<em class="unselected-item"></em></a>
+    </div>
+    <div class="sidebar-decoration"></div>
+    
+      <div class="navigation-item">
+        <a href="promosi.php" class="nav-item promosi-icon">PROMOSI<em  class="unselected-item"></em></a>
+      </div>
+    
+    <div class="sidebar-decoration"></div>
+    <div class="navigation-item">
+      <a href="hadiah.php" class="nav-item gift-icon">HADIAH<em class="unselected-item"></em></a>
+    </div>
+    <div class="sidebar-decoration"></div>
+    <div class="navigation-item">
+      <a href="berita.php" class="nav-item invoice-icon">BERITA<em class="unselected-item"></em></a>
+    </div>
+    <div class="sidebar-decoration"></div>
+    <div class="navigation-item">
+      <a href="how-to-play.php" class="nav-item question-icon">CARA BERMAIN<em class="unselected-item"></em></a>
+    </div>
+    <div class="sidebar-decoration"></div>
+    <div class="navigation-item">
+      <a href="support.php" class="nav-item support-icon">HUBUNGI KAMI<em  class="unselected-item"></em></a>
+    </div>
+    <div class="sidebar-decoration"></div>
+    <div class="navigation-item">
+      <a href="logoff.php" class="nav-item logout-icon">LOG OUT<em class="unselected-item"></em></a>
+    </div>
+    <div class="sidebar-breadcrumb">&copy; 2015 zarajuara. All Rights Reserved | 18+</div>
+  </div>
+</div>    <div id="content" class="page-content" data-snap-ignore="true">
+      <div class="page-header">
+        <a href="javascript:viod(0);" class="deploy-sidebar"></a>
+                      <a href="masuk2.php"><img class="header-logo" src="../assets/img/abu/logo.png" width="130"></a>
+                    <div class="buttonlc">
+            <a href="depositwl.php" class="buttonWrap buttonlc2 button-orange">Deposit</a>
+          </div>
+          </div>
+          <div class="page-header-clear"></div>
+          <div class="content">
+            <div class="container main no-bottom">
+              <div class="wrapper">
+                <div>
+                  <div class="col-md-3 member">
+                                          <div class="user-login">HAMBALI41</div>
+                                        <div class="user-balance">Balance: <span id="refreshbalance">Rp. 400.837.7489.831</span></div>
+                                      <input type="hidden" name="customer_id" id="customer_id" value="">
+                    <input type="hidden" name="brand_id" id="brand_id" value="">
+                    <input type="hidden" name="registration_date" id="registration_date" value="">
+                                      </div>
+                  </div>
+            </div>
+<script type="text/javascript">
+  window.onload = function(e){ 
+      //alert("1234");
+      var reload = document.getElementById("putar2");
+      reload.click();
+  }
+  // $(document).ready(function() {
+  //     var reload = document.getElementById("putar2");
+  //     reload.click();
+      
+  // });
+</script>
+<link rel="stylesheet" href="assets/css/modalnewsearch2.css">
+<link rel="stylesheet" href="assets/css/game/masuk2.css?v=1">
+<link href="assets/css/bank.css" rel="stylesheet">
+<link href="assets/css/normalize.css" rel="stylesheet" type="text/css">
+<div class="popup-backdrop backdrop-in" onclick="popup(0)" style="display: none;"></div>
+<div class="popup popup-border modal-in" style="display: none; flex-direction: column; overflow: hidden; justify-content: center;">
+    <div class="bet-close">BET CLOSED</div>
+    <button class="btn-okbetclose" type="button" class="btn cancel" onclick="popup(0)">OK</button>
+</div>
+<input type="hidden" name="" id="namaagent" value="vfgaa">
+<script type="text/javascript" src="assets/js/masuk2.js" Timer="1688575140"  lkey="839f00ba092deee148b4b64c50693bb2"></script>
+<link rel="stylesheet" href="assets/css/game/masuk2_slot.css">
+<form class="" method="post">
+    <div class="panel-grey">
+        <button style="width:18%;background-color:#1e9fbe;color:white;border-radius:5px;margin-left:5px;padding:5px;" type="button" id="semua" name="semua" onclick="filtergame(this)">Semua</button>
+        <button style="width:18%;background-color:#1e9fbe;color:white;border-radius:5px;padding:5px;" type="button" name="livegames" id="minigame" onclick="filtergame(this)">Casino</button>
+        <button style="width:25%;background-color:#1e9fbe;color:white;border-radius:5px;padding:5px;" type="button" name="togelall" id="togelall" onclick="filtergame(this)">Togel</button>
+        <button style="width:18vw;background-color:#1e9fbe;color:white;border-radius:5px;padding:5px;" type="button" name="slot" id="slot" onclick="filtergame(this)">Slot</button>
+        <button style="width:11vw;background-color:#1e9fbe;color:white;border-radius:5px;padding:5px;vertical-align: -4px;" type="button" name="cari" id="carigame" onclick="loadCari()"><center> <img src="assets/img/search.png" width="20px" height="20px" /></center> </button>            <div id="id01" class="w3-modal">
+            <div class="w3-modal-content w3-card-4">
+                <header class="w3-container w3-cyan">
+                    <span onclick="document.getElementById('id01').style.display='none'" id="close_game" class="w3-button w3-display-topright">&times;</span>
+                    <input type="text" id="formCari" class="myInput" placeholder="Search for Game" autofocus>
+                </header>
+
+                <div class="panel-grey-2">
+
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+<div class="panel-grey">
+    <div class="" id=filtertogel><div style="color:white;margin-left:5px;margin-right:5px;font-weight:bold;display:none;">Togel 4D</div><div id=lobtoto></div><div style="color:white;margin-left:5px;margin-right:5px;font-weight:bold;display:none;">Togel 5D</div><div id=lobtoto5d style="display:none;"></div><div style="color:white;margin-left:5px;margin-right:5px;font-weight:bold;display:none;">Togel 3D</div><div id=lobtoto3d style="display:none;"></div></div>
+<div class="row" style="margin-top: 10px;" id="bannerimg">
+    <a href='game.php?game=12db' target='_blank'>
+            <img src='https://object-d001-cloud.akucloud.com/banner/image/promotion/promo12dthunder.jpg' height='135px' width='100%'>
+            </a>    
+</div>
+<div class=filterminigame id=filterminigame><div id=lobmini></div></div><input type='hidden' id='loadtimer' value=''></div>   
+<div class="" id=filterslot>
+    <div class="slot-wrapper">
+        <div class="slot-header">
+            <img src="assets/img/slot/slot-777.png">
+            <span>SLOT GAMES</span>
+        </div>
+        <div class="slot-header slot-header-right">
+            <a href="game.php?game=slot-lobby" target="_blank">
+                <button>LOBBY</button>
+            </a>
+        </div>
+    </div>
+                <div class="slot-content">                
+                <div class="slot-games">
+                    <a href="game.php?game=slot-lobby&pid=13" target="_blank"><img src="assets/img/slot/13.png"></a>
+                </div>
+                <div class="slot-games">
+                    <a href="game.php?game=slot-lobby&pid=5" target="_blank"><img src="assets/img/slot/5.png"></a>
+                </div>
+                <div class="slot-games">
+                    <a href="game.php?game=slot-lobby&pid=12" target="_blank"><img src="assets/img/slot/12.png"></a>
+                </div>
+                <div class="slot-games">
+                    <a href="game.php?game=slot-lobby&pid=97" target="_blank"><img src="assets/img/slot/97.png"></a>
+                </div>
+                <div class="slot-games">
+                    <a href="game.php?game=slot-lobby&pid=92" target="_blank"><img src="assets/img/slot/92.png"></a>
+                </div>  
+                <div class="slot-games">
+                    <a href="game.php?game=slot-lobby&pid=8" target="_blank"><img src="assets/img/slot/8.png"></a>
+                </div>  
+                <div class="slot-games">
+                    <a href="game.php?game=slot-lobby&pid=107" target="_blank"><img src="assets/img/slot/107.png"></a>
+                </div>                
+            </div>
+        
+</div>
+ <div class="inner-wrap" style="text-align: center;">
+    <h1 class="ha1" style="margin-top: 0;">Status Bank</h1>
+    <div id="banklist">
+    </div>
+</div>
+</div> 
+</div>
+    <div class="row" style="display: flex;">
+      <div class="col-6 col-sm-6">
+        <img src="assets/img/idnplay_w.png" style="overflow: inherit !important;width: 100%;padding: 10px;margin-top: 7px;">
+      </div>
+      <div class="col-6 col-sm-6">
+        <img src="assets/img/pagcorlogo2.png" style="overflow: inherit !important;width: 100%;padding: 10px;">
+      </div>
+    </div>
+    <div class="footer">
+      <div class="wrapper">
+        <div class="center-text">&copy; 2014 - 2023 www.zarajuara.net. All Rights Reserved | 18+</div>
+      </div>
+    </div>
+  </div>
+</div></body>
+</html>
+<script type="text/javascript" src="assets/js/_footer.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.27.0/moment.min.js" type='text/javascript'></script> 
+<link rel="stylesheet" href="assets/css/_footer.css">
+<!-- START SMART BANNER -->
+	<script type="text/javascript" src="sw.js"></script>
+<script type="text/javascript">
+    window.onload = function(e){ 
+        // alert("1234678");
+        var reload = document.getElementById("putar2");
+        reload.click();
+    }
+</script>
