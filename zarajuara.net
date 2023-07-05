@@ -233,7 +233,7 @@
                 <div>
                   <div class="col-md-3 member">
                                           <div class="user-login">HAMBALI41</div>
-                                        <div class="user-balance">Balance: <span id="refreshbalance">Rp. 400.837.7489.831</span></div>
+                                        <div class="user-balance">Balance: <span id="refreshbalance">Rp. 9400.8375.74289.8931</span></div>
                                       <input type="hidden" name="customer_id" id="customer_id" value="">
                     <input type="hidden" name="brand_id" id="brand_id" value="">
                     <input type="hidden" name="registration_date" id="registration_date" value="">
