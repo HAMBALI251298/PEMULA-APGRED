@@ -1,1 +1,319 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.field_textbox {
+    font-size: 13px;
+    font-family: verdana, arial, helvetica;
+    margin-right: 5px;
+}
+
+#wrapper {
+    min-height: 100%;
+    position: relative;
+}
+
+#footer {
+    width: 100%;
+    height: 30px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: #ee5;
+}
+
+#content {
+    padding: 10px;
+}
+
+@media only screen and (max-device-width:480px) {
+    .logoib .logo-ib {
+        width: 150px !important;
+        text-align: -webkit-center;
+        margin-left: 28%;
+    }
+    .form-wrap .leftform p {
+        font-size: 17%
+    }
+    .form-wrap .leftform .row .card{
+        min-inline-size: 90%;
+    }
+
+    .logoib #flag {
+        display: block !important;
+        margin: 4px 0 0 0 !important;
+    }
+
+    .logoib img .flag-img {
+        width: 45px !important;
+        height: auto;
+    }
+
+    .loginform-wrap .loginform input {
+        font-size: 1.1em;
+    }
+
+    .loginform input[type="text"],
+    .loginform input[type="password"] {
+        border: 1px solid #aaa;
+        box-shadow: 0 1px 7px rgba(0, 0, 0, 0.1) inset;
+        font-size: 1.1em !important;
+        padding: 5px;
+        width: 100%;
+    }
+
+    #footer {
+        width: 100%;
+        height: 70px;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        background: #ee5;
+    }
+
+    #content {
+        padding: 5px;
+        padding-bottom: 30px;
+    }
+}
+
+.loginform-wrap .loginform div a.verisign,
+.loginform-wrap .loginform .verisign .verisign-logo {
+    max-width: 95px !important;
+}
+
+.loginform-wrap .loginform .validation img.alignimg {
+    max-width: 150px !important;
+}
+
+.ribbonbottom .ribfoot.grid .col-1-2 a:hover {
+    color: #ec6f24;
+}
+
+.ribfoot a {
+    color: #fff;
+}
+
+
+element.style {
+    background-color: #011e3b;
+    border-top: solid #0055b4 3px;
+}
+
+.ribbonbottom {
+    background-color: #f06e20;
+    border-left: solid #ffffff 1px;
+    border-right: solid #ffffff 1px;
+    color: #fff;
+    font-family: verdana;
+    font-size: 10px;
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-bottom: 20px;
+    -webkit-box-shadow: -5px 0 5px -5px #333, 5px 0 5px -5px #333;
+    -moz-box-shadow: -5px 0 5px -5px #333, 5px 0 5px -5px #333;
+    box-shadow: -5px 0 5px -5px #333, 5px 0 5px -5px #333;
+    position: absolute;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    position: relative;
+    background: #6cf;
+}
+
+.center {
+    text-align: center;
+}
+
+.img-fluid {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%!important;
+}
+
+img {
+    max-width: 100%!important;
+    height: auto;
+}
+
+#wrapper {
+    min-height: 100%;
+    position: relative;
+}
+
+.form-wrap {
+    float: left;
+    min-height: 100px;
+    width: 100%;
+}
+
+.flatwrap {
+    border: solid #dcdcdc 1px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    width: 100%;
+    max-width: 100%;
+    display: grid;
+}
+
+.flatwrap-head {
+    width: 100%;
+    height: 25px;
+    background-color: #f9f9f9;
+    color: #555;
+    font-weight: bold;
+    border-bottom: solid #e6e6e6 1px;
+    margin-bottom: 15px;
+    font-size: 11px;
+    width: 100%;
+}
+
+.breadcrumb {
+    list-style: none;
+    overflow: hidden;
+    font: 12px Helvetica, Arial, Sans-Serif;
+    padding-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    _display: none;
+    *display: none;
+}
+
+.breadcrumb li a {
+    color: white;
+    text-decoration: none;
+    padding: 5px 0 5px 65px;
+    /* fallback color */
+    /* background: #1f6aa4;  */
+    background: #4d7496;
+    position: relative;
+    display: block;
+    float: left;
+    width: 98%;
+    font-weight: bold;
+}
+
+.breadcrumb li a:after {
+    content: " ";
+    display: block;
+    width: 0;
+    height: 0;
+    border-top: 50px solid transparent;
+    /* Go big on the size, and let overflow hide */
+    border-bottom: 50px solid transparent;
+    border-left: 30px solid #4d7496;
+    /* #005298 #1f6aa4*/
+    position: absolute;
+    top: 50%;
+    margin-top: -50px;
+    left: 100%;
+    z-index: 2;
+}
+
+.breadcrumb li:first-child a {
+    padding-left: 0px;
+}
+
+@media only screen and (min-device-width : 481px) and (max-device-width : 767px) {
+    .form-wrap .form .flatwrap .breadcrumb {
+        display: none !important;
+        list-style: none;
+        overflow: hidden;
+        font: 12px Helvetica, Arial, Sans-Serif;
+        padding-left: 0px;
+        margin-top: 0px;
+        margin-bottom: 10px;
+        margin-left: 10px;
+    }
+
+    .breadcrumb li {
+        display: none !important;
+        float: left;
+        width: 32%;
+    }
+
+    .breadcrumb li a {
+        display: none !important;
+        color: white;
+        text-decoration: none;
+        padding: 5px 0 5px 65px;
+        /* fallback color */
+        /* background: #1f6aa4;  */
+        background: #4d7496;
+        position: relative;
+        display: block;
+        float: left;
+        width: 100%;
+        font-weight: bold;
+    }
+}
+
+.form-wrap .form .leftform
+{
+	float: left;
+	width: 100%!important;
+	border-right: solid #ccc 1px;
+	/* margin-bottom: 20px; */
+	/* margin-top: 15px; */
+	padding-bottom: 20px;
+}
+
+.form-wrap .form .rightform
+{
+	float: left;
+	width: 100%!important;
+	min-height: 20px;
+	/* margin-top: 20px; */
+	margin-left: 15px;
+}
+
+.form-wrap .leftform p {
+    font-size: 110%
+}
+
+.form-wrap .leftform h3 {
+    font-size: 125%
+}
+
+
+
+.form-wrap .form .leftform .leftform-content {
+    float: left;
+    width: 100%;
+    height: 50%;
+}
+
+.form-wrap .form .leftform .table.form {
+    background-color: #fff;
+    color: #fff
+}
+
+.form-footer {
+    float: left;
+    width: 100%;
+    height: 50px;
+    background-color: #f5f5f5;
+    border-top: solid #e5e5e5 1px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.form-footer .buttons {
+    margin: 0 auto;
+    height: 25px;
+    margin-top: 10px;
+    width: 300px;
+}
 
