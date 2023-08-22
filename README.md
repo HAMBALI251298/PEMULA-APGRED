@@ -1,24 +1,40 @@
-pkg install upgrade
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style.css">
+<div class="card">
+  <div class="header"> HAMBALI My Skills</div>
+  <div class="body">
+    <div class="skill">
+      <div class="skill-name">HTML</div>
+      <div class="skill-level">
+        <div class="skill-percent" style="width: 90%"></div>
+      </div>
+      <div class="skill-percent-number">90%</div>
+    </div>
+    <div class="skill">
+      <div class="skill-name">CSS</div>
+      <div class="skill-level">
+        <div class="skill-percent" style="width: 85%"></div>
+      </div>
+      <div class="skill-percent-number">85%</div>
+    </div>
+    <div class="skill">
+      <div class="skill-name">JavaScript</div>
+      <div class="skill-level">
+        <div class="skill-percent" style="width: 80%"></div>
+      </div>
+      <div class="skill-percent-number">80%</div>
+    </div>
+  </div>
+</div>
 
-pkg install git
-
-git clone https://github.com/Hax4us/Metasploit_termux
-
-ls
-
-cd Metasploit_termux
-
-chmod +x metasploit.sh
-
-./metasploit.sh
-
-<{SMS BOMBER}>
-
-apt update -y && apt upgrade -y
-pkg install git -y 
-pkg install wget -y
-pkg install pv -y
-pkg install figlet -y
-git clone https://github.com/jatinkalwar/m-bomber2.O
-cd m-bomber2.O
-bash bomber.sh
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>HAMBALI</title>
+</head>
+<body>
+  
+</body>
+</html>
