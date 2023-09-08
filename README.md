@@ -1,4 +1,17 @@
-### Hi, I'm HAMBALI
+### Hi, I'm HAMBALI 🎭
+
+▇◤▔▔▔▔▔▔▔◥▇
+▇▏◥▇◣┊◢▇◤▕▇
+▇▏▃▆▅▎▅▆▃▕▇
+▇▏╱▔▕▎▔▔╲▕▇
+▇◣◣▃▅▎▅▃◢◢▇
+▇▇◣◥▅▅▅◤◢▇▇
+▇▇▇◣╲▇╱◢▇▇▇
+▇▇▇▇◣▇◢▇▇▇▇
+
+
+▂▂▂▂▂▂╭━╮▂▂▂▂▂▂▂   ▂▂▂▂▂▂┣━┫▂▂▂▂▂▂▂   ▂▂▂▂▂▂┃╭┃▂▂▂▂▂▂▂   ▂▂▂▂╭━┫┈┣━╮▂▂▂▂▂   ▂▂╭━┃╭┃╭┃╭┃━╮▂▂▂ 
+
 
 ### and here is my stats
 <p align="center"><img src="https://www.codewars.com/users/SatriaAPN/badges/large"/><br /><br />
