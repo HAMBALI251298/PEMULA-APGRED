@@ -1,5 +1,5 @@
 ### Hi, I'm HAMBALI 🎭
-▂▂▂▂▂▂╭━╮▂▂▂▂▂▂▂   ▂▂▂▂▂▂┣━┫▂▂▂▂▂▂▂   ▂▂▂▂▂▂┃╭┃▂▂▂▂▂▂▂   ▂▂▂▂╭━┫┈┣━╮▂▂▂▂▂   ▂▂╭━┃╭┃╭┃╭┃━╮▂▂▂ 
+     ▂▂▂▂▂▂╭━╮▂▂▂▂▂▂▂               ▂▂▂▂▂▂┣━┫▂▂▂▂▂▂▂               ▂▂▂▂▂▂┃╭┃▂▂▂▂▂▂▂               ▂▂▂▂╭━┫┈┣━╮▂▂▂▂▂               ▂▂╭━┃╭┃╭┃╭┃━╮▂▂▂ 
 
 <p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
 
@@ -23,7 +23,7 @@
 
 ## About Me :wave:
 <a href="https://twitter.com/anonymousid" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/anonymous/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-Hey! I'm HAMBALI , a 18 year old software developer and QA engineer for [hambali.com](https://github.com/ahmadchenwangxuesi) working out of Boston. I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
+Hey! I'm HAMBALI, 18 year old software developer and QA engineer for [hambali.com](https://github.com/ahmadchenwangxuesi) working out of Boston. I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
 
 :moneybag: **Feeling Generous? Help Support Me** :moneybag:
 
