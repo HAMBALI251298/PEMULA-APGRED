@@ -1,40 +1,23 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <link rel="stylesheet" href="style.css">
-<div class="card">
-  <div class="header"> HAMBALI My Skills</div>
-  <div class="body">
-    <div class="skill">
-      <div class="skill-name">HTML</div>
-      <div class="skill-level">
-        <div class="skill-percent" style="width: 90%"></div>
-      </div>
-      <div class="skill-percent-number">90%</div>
-    </div>
-    <div class="skill">
-      <div class="skill-name">CSS</div>
-      <div class="skill-level">
-        <div class="skill-percent" style="width: 85%"></div>
-      </div>
-      <div class="skill-percent-number">85%</div>
-    </div>
-    <div class="skill">
-      <div class="skill-name">JavaScript</div>
-      <div class="skill-level">
-        <div class="skill-percent" style="width: 80%"></div>
-      </div>
-      <div class="skill-percent-number">80%</div>
-    </div>
-  </div>
-</div>
+### Hi there, I'm HAMBALI‹
 
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>HAMBALI</title>
-</head>
-<body>
-  
-</body>
-</html>
+### and here is my stats
+<p align="center"><img src="https://www.codewars.com/users/SatriaAPN/badges/large"/><br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=SatriaAPN&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatriaAPN&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaAPN&layout=compact&theme=monokai&langs_count=12"/><br />
+</p>
+
+<!--
+**HAMBALI** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- ðŸ”­ Iâ€™m currently working on ...
+- ðŸŒ± Iâ€™m currently learning ...
+- ðŸ‘¯ Iâ€™m looking to collaborate on ...
+- ðŸ¤” Iâ€™m looking for help with ...
+- ðŸ’¬ Ask me about ...
+- ðŸ“« How to reach me: ...
+- ðŸ˜„ Pronouns: ...
+- âš¡ Fun fact: ...
+-->
