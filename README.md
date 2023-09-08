@@ -1,14 +1,14 @@
-### Hi there, I'm Satria Aluh Perwira Nusa ðŸ‘‹
+### Hi, I'm HAMBALI 🎭
 
 ### and here is my stats
 <p align="center"><img src="https://www.codewars.com/users/SatriaAPN/badges/large"/><br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=SatriaAPN&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatriaAPN&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaAPN&layout=compact&theme=monokai&langs_count=12"/><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=HAMBALI251298/PEMULA-APGRED/edit/main/README.md&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HAMBALI251298/PEMULA-APGRED/edit/main/README.md  &theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMBALI251298/PEMULA-APGRED/edit/main/README.md &layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
 
 <!--
-**SatriaAPN/SatriaAPN** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HAMBALI251298** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
