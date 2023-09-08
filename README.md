@@ -23,7 +23,7 @@
 
 ## About Me :wave:
 <a href="https://twitter.com/anonymousid" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/anonymous/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-Hey! I'm AhmadChenWangXuesi , a 18 year old software developer and QA engineer for [hambali221019@gmail.com](https://github.com/ahmadchenwangxuesi) working out of Boston. I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
+Hey! I'm HAMBALI , a 18 year old software developer and QA engineer for [hambali.com](https://github.com/ahmadchenwangxuesi) working out of Boston. I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
 
 :moneybag: **Feeling Generous? Help Support Me** :moneybag:
 
@@ -64,7 +64,7 @@ EasyModels is an easy way to find and view deep learning projects and pre-traine
 
 ### :framed_picture: Pixcryption - Cryptographically secure image ciphering algorithm
 
-![Stars](https://img.shields.io/github/stars/M4cs/pixcryption)
+![Stars⭐](https://img.shields.io/github/stars/M4cs/pixcryption)
 
 Pixcryption's goal is to offer a new form of steganography/encryption through imagery. It uses a random seeded UUID to generate a user_key which matches RGB perfect values to match to unicode characters. Uses AES OCB encryption.
 
