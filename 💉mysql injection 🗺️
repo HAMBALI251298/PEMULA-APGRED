@@ -1,5 +1,0 @@
-git clone https://github.com/sqlmapproject/sqlmap
-ls
-cd sqlmap
-ls
-python2 sqlmap.py -h
