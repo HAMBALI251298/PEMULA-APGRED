@@ -5,11 +5,11 @@
 <!-- OctoCats -->
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-<a href="https://ahmadchen.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadchen&theme=radical" />
+<a href="https://HAMBALI251298.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMBALI251298&theme=radical" />
 </a>
 <a href="https://ahmadchen.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmadchen&show_icons=true&theme=radical&line_height=27" alt="Paceusa github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HAMBALI251298&show_icons=true&theme=radical&line_height=27" alt="Paceusa github stats" />
 </a>
 
 <a href="https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways">
@@ -21,17 +21,17 @@
 
 
 ## About Me :wave:
-<a href="https://twitter.com/anonymousid" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/anonymous/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-Hey! I'm HAMBALI, 18 year old software developer and QA engineer for [hambali.com](https://github.com/ahmadchenwangxuesi) working out of Boston. I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
+<a href="https://twitter.com/anonymousid" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/HAMBALI/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+Hey! I'm HAMBALI, 18 year old software developer and QA engineer for [https://github.com/HAMBALI251298/PEMULA-APGRED/](https://github.com/HAMBALI251298/PEMULA-APGRED/edit/main/README.md) working out of Boston. I'm constantly posting repositories and new software on GitHub for everybody to use which you can find here!
 
 :moneybag: **Feeling Generous? Help Support Me** :moneybag:
 
-<a href="https://github.com/sponsors/ahmadchen" target="_blank"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"></a>
+<a href="https://github.com/sponsors/HAMBALI251298" target="_blank"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=%3Curl%3E&color=f88379"></a>
 <img src="https://badges.pufler.dev/visits/M4cs/M4cs">
 <img src="https://badges.pufler.dev/years/M4cs">
 
 ## My Projects :pencil:
-<a href=""><img src="https://github-readme-stats.vercel.app/api/?username=ahmadchen&theme=prussian&show_icons=true&count_private=true" align="right"></a>
+<a href=""><img src="https://github-readme-stats.vercel.app/api/?username=HAMBALI251298&theme=prussian&show_icons=true&count_private=true" align="right"></a>
 
 ### :baby: Babysploit - Penetration Testing Framework for Beginners
 
@@ -88,7 +88,7 @@ Pixcryption's goal is to offer a new form of steganography/encryption through im
 </p>
 
 <!--
-**SatriaAPN/SatriaAPN** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SatriaAPN/SatriaAPN 🛰️** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
