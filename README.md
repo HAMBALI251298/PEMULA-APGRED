@@ -1,5 +1,4 @@
-### Hi, I'm HAMBALI 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix
+### Hi, I'm HAMBALI 👋
 
 ▂▂▂▂▂▂╭━╮▂▂▂▂▂▂▂          ▂▂▂▂▂▂┣━┫▂▂▂▂▂▂▂               ▂▂▂▂▂▂┃╭┃▂▂▂▂▂▂▂               ▂▂▂▂╭━┫┈┣━╮▂▂▂▂▂               ▂▂╭━┃╭┃╭┃╭┃━╮▂▂▂ 
 
