@@ -2,6 +2,10 @@
 
 ▂▂▂▂▂▂╭━╮▂▂▂▂▂▂▂          ▂▂▂▂▂▂┣━┫▂▂▂▂▂▂▂              ▂▂▂▂▂▂┃╭┃▂▂▂▂▂▂▂              ▂▂▂▂╭━┫┈┣━╮▂▂▂▂▂              ▂▂╭━┃╭┃╭┃╭┃━╮▂▂▂ 
 
+step [1]
+https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=298%3A5688&scaling=min-zoom&page-id=298%3A4008&starting-point-node-id=299%3A5735&show-proto-sidebar=1
+
+step [2]
 https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=298-4142&scaling=min-zoom&page-id=298%3A4008&starting-point-node-id=299%3A5735&show-proto-sidebar=1
 
 <img src="pixel-neon.gif">
