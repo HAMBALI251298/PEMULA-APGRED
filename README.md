@@ -29,9 +29,6 @@
 
 ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
   <br>
-  
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=godkingjay&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
-  <br>
 
   <img src="https://github-readme-stats-godkingjay.vercel.app/api/wakatime?username=godkingjay&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
   <br>
