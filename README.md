@@ -8,6 +8,37 @@ https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=
 Step link [2]
 https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=298-4142&scaling=min-zoom&page-id=298%3A4008&starting-point-node-id=299%3A5735&show-proto-sidebar=1
 
+## Implemented Channels
+
+This tables shows which payment channels that has been implemented by this proxy.
+
+:white_check_mark: : ready
+
+:heavy_exclamation_mark: : in progress
+
+:x: : not yet supported natively by payment gateway
+
+| Channels                        | Midtrans (Snap)                     | Xendit (ewallet/XenInvoice) |
+| ------------------------------- | ----------------------------------- | --------------------------- |
+| Credit Card without installment | :white_check_mark:                  | :white_check_mark:          |
+| Credit Card with installment    | :white_check_mark:                  | :x:                         |
+| BCA VA                          | :white_check_mark:                  | :white_check_mark:          |
+| Mandiri VA                      | :white_check_mark:                  | :white_check_mark:          |
+| BNI VA                          | :white_check_mark:                  | :white_check_mark:          |
+| Permata VA                      | :white_check_mark:                  | :white_check_mark:          |
+| Other VA                        | :white_check_mark:                  | :x:                         |
+| BRI VA                          | :heavy_exclamation_mark:            | :white_check_mark:          |
+| Alfamart, Alfamidi, Dan+Dan     | :white_check_mark:                  | :white_check_mark:          |
+| QRIS                            | :white_check_mark:                  | :white_check_mark:          |
+| Gopay                           | :white_check_mark:                  | :x:                         |
+| OVO                             | :x:                                 | :white_check_mark:          |
+| DANA                            | :x:                                 | :white_check_mark:          |
+| LinkAja                         | :x:                                 | :white_check_mark:          |
+| ShopeePay                       | :white_check_mark:                  | :white_check_mark:          |
+| Akulaku                         | :white_check_mark:                  | :x:                         |
+| Kredivo                         | :x:                                 | :heavy_exclamation_mark:    |
+
+
 <img src="pixel-neon.gif">
 <img src="pixel-night.gif">
 <img scr="vaporwave-aesthetic.gif">  
