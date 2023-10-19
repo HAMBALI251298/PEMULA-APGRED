@@ -44,7 +44,7 @@ This tables shows which payment channels that has been implemented by this proxy
 <img src="logo-dana.png">
 
 
-| Channels (HAMBALI)              | Mantra (Snap)                     | Xendit (ewallet/XenInvoice) |
+| Channels (HAMBALI)              | Mantra (Snap)                       | Xendit (ewallet/XenInvoice) |
 | ------------------------------- | ----------------------------------- | --------------------------- |
 | JENIUS VA <img src="logo-jenius.png"> | :white_check_mark:                  | :white_check_mark:          |
 | JAGO VA <img src="logo-jago.png">   | :white_check_mark:                  | :x:                         |
@@ -64,8 +64,9 @@ This tables shows which payment channels that has been implemented by this proxy
 | CIMB NIAGA VA <img src="logo-cimb-niaga.png">                        | :white_check_mark:                  | :x:                         |
 | BTN VA <img src="logo-btn.png">                     | :x:                                 | :heavy_exclamation_mark:    |
 | CITIBANK VA <img src="logo-citibank.png">
-   |
+   
 OCBC-NISP VA <img src="logo-ocbc-nisp.png">                     | :x:                                 | :heavy_exclamation_mark:    |
+
 
 
 
