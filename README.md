@@ -10,6 +10,8 @@ http://120.92.142.115/mobilepro/
 <img src="logo-btn.png">
 <img src="logo-danamon.png">
 <img src="logo-muamalat.png">
+<img src="logo-citibank.png">
+<img src="logo-cimb-niaga.png">
 <img src="logo-seabank.png">
 <img src="logo-gopay.png">
 <img src="logo-ovo.png">
