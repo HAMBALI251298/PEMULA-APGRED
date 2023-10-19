@@ -49,9 +49,9 @@ This tables shows which payment channels that has been implemented by this proxy
 | Credit Card without installment | :white_check_mark:                  | :white_check_mark:          |
 | Credit Card with installment    | :white_check_mark:                  | :x:                         |
 | BCA VA    <img src="logo-bca.png">                      | :white_check_mark:                  | :white_check_mark:          |
-| Mandiri VA    <img src="logo-bca.png">                  | :white_check_mark:                  | :white_check_mark:          |
+| Mandiri VA    <img src="logo-mandiri.png">                  | :white_check_mark:                  | :white_check_mark:          |
 | BNI VA     <img src="logo-bni.png">                     | :white_check_mark:                  | :white_check_mark:          |
-| Permata VA   <img src="logo-permata.png">                   | :white_check_mark:                  | :white_check_mark:          |
+| bsi VA   <img src="logo-bsi.png">                   | :white_check_mark:                  | :white_check_mark:          |
 | Other VA                        | :white_check_mark:                  | :x:                         |
 | BRI VA     <img src="logo-bri.png">                     | :heavy_exclamation_mark:            | :white_check_mark:          |
 | Alfamart, Alfamidi, Dan+Dan     | :white_check_mark:                  | :white_check_mark:          |
