@@ -9,11 +9,14 @@ https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=
 Step link 
 https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=298-4142&scaling=min-zoom&page-id=298%3A4008&starting-point-node-id=299%3A5735&show-proto-sidebar=1
 
-###<img src="pixel-neon.gif">
-###<img src="pixel-night.gif">
-###<img scr="vaporwave-aesthetic.gif">  
+##HAMBALI
+<img src="pixel-neon.gif">
+##HAMBALI
+<img src="pixel-night.gif">
+##HAMBALI
+<img scr="vaporwave-aesthetic.gif">  
 
-### Implemented Channels 
+## Implemented Channels 
 
 This tables shows which payment channels that has been implemented by this proxy.
 
@@ -54,6 +57,28 @@ This tables shows which payment channels that has been implemented by this proxy
 
 <p align="left">Programming Languages:</p>
 <p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> </p>
+
+
+<img src="logo-bsi.png">
+<img src="logo-bca.png">
+<img src="logo-bni.png">
+<img src="logo-bri.png">
+<img src="logo-mandiri.png">
+<img src="logo-btn.png">
+<img src="logo-danamon.png">
+<img src="logo-digibank.png">
+<img src="logo-muamalat.png">
+<img src="logo-citibank.png">
+<img src="logo-ocbc-nisp.png">
+<img src="logo-jago.png">
+<img src="logo-cimb-niaga.png">
+<img src="logo-jenius.png">
+<img src="logo-seabank.png">
+<img src="logo-gopay.png">
+<img src="logo-ovo.png">
+<img src="logo-linkaja.png">
+<img src="logo-dana.png">
+
 
 <p align="left">Backend Development :</p>
 <p align="left"> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>  </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a></p>
