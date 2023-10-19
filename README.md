@@ -8,7 +8,11 @@ https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=
 Step link [2]
 https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=298-4142&scaling=min-zoom&page-id=298%3A4008&starting-point-node-id=299%3A5735&show-proto-sidebar=1
 
-## Implemented Channels
+<img src="pixel-neon.gif">
+<img src="pixel-night.gif">
+<img scr="vaporwave-aesthetic.gif">  
+
+## Implemented Channels 
 
 This tables shows which payment channels that has been implemented by this proxy.
 
@@ -100,10 +104,6 @@ This tables shows which payment channels that has been implemented by this proxy
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xans-me&" alt="xans-me" /></p>
 
 
-
-<img src="pixel-neon.gif">
-<img src="pixel-night.gif">
-<img scr="vaporwave-aesthetic.gif">  
 <a href="#"><img title="Made in Pakistan" src="https://img.shields.io/badge/MADE%20IN-Indonesia-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
