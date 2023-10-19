@@ -25,7 +25,6 @@ This tables shows which payment channels that has been implemented by this proxy
 
 <img src="logo-bsi.png">
 <img src="logo-bni.png">
-<img src="logo-bca.png">
 <img src="logo-bri.png">
 <img src="logo-mandiri.png">
 <img src="logo-btn.png">
@@ -48,7 +47,7 @@ This tables shows which payment channels that has been implemented by this proxy
 | ------------------------------- | ----------------------------------- | --------------------------- |
 | Credit Card without installment | :white_check_mark:                  | :white_check_mark:          |
 | Credit Card with installment    | :white_check_mark:                  | :x:                         |
-| BCA VA                          | :white_check_mark:                  | :white_check_mark:          |
+| BCA VA    <img src="logo-bca.png">                      | :white_check_mark:                  | :white_check_mark:          |
 | Mandiri VA                      | :white_check_mark:                  | :white_check_mark:          |
 | BNI VA                          | :white_check_mark:                  | :white_check_mark:          |
 | Permata VA                      | :white_check_mark:                  | :white_check_mark:          |
