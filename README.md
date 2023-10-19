@@ -2,27 +2,6 @@
 http://120.92.142.115/mobilepro/
 ▂▂▂▂▂▂╭━╮▂▂▂▂▂▂▂          ▂▂▂▂▂▂┣━┫▂▂▂▂▂▂▂              ▂▂▂▂▂▂┃╭┃▂▂▂▂▂▂▂              ▂▂▂▂╭━┫┈┣━╮▂▂▂▂▂              ▂▂╭━┃╭┃╭┃╭┃━╮▂▂▂ 
 
-<img src="logo-bsi.png">
-<img src="logo-bni.png">
-<img src="logo-bca.png">
-<img src="logo-bri.png">
-<img src="logo-mandiri.png">
-<img src="logo-btn.png">
-<img src="logo-danamon.png">
-<img src="logo-muamalat.png">
-<img src="logo-citibank.png">
-<img src="logo-cimb-niaga.png">
-<img src="logo-seabank.png">
-<img src="logo-gopay.png">
-<img src="logo-ovo.png">
-<img src="logo-linkaja.png">
-<img src="logo-dana.png">
-
-
-
-
-
-
 Step link [1]
 https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=298%3A5688&scaling=min-zoom&page-id=298%3A4008&starting-point-node-id=299%3A5735&show-proto-sidebar=1
 
@@ -76,6 +55,27 @@ This tables shows which payment channels that has been implemented by this proxy
 :heavy_exclamation_mark: : in progress
 
 :x: : not yet supported natively by payment gateway
+
+<img src="logo-bsi.png">
+<img src="logo-bni.png">
+<img src="logo-bca.png">
+<img src="logo-bri.png">
+<img src="logo-mandiri.png">
+<img src="logo-btn.png">
+<img src="logo-danamon.png">
+<img src="logo-digibank.png">
+<img src="logo-muamalat.png">
+<img src="logo-citibank.png">
+<img src="logo-ocbc-nisp.png">
+<img src="logo-jago.png">
+<img src="logo-cimb-niaga.png">
+<img src="logo-jenius.png">
+<img src="logo-seabank.png">
+<img src="logo-gopay.png">
+<img src="logo-ovo.png">
+<img src="logo-linkaja.png">
+<img src="logo-dana.png">
+
 
 | Channels                        | Midtrans (Snap)                     | Xendit (ewallet/XenInvoice) |
 | ------------------------------- | ----------------------------------- | --------------------------- |
