@@ -63,9 +63,9 @@ This tables shows which payment channels that has been implemented by this proxy
 | DANAMON VA   <img src="logo-danamon.png">                   | :white_check_mark:                  | :white_check_mark:          |
 | CIMB NIAGA VA <img src="logo-cimb-niaga.png">                        | :white_check_mark:                  | :x:                         |
 | BTN VA <img src="logo-btn.png">                     | :x:                                 | :heavy_exclamation_mark:    |
-| CITIBANK VA <img src="logo-citibank.png">
+| OCBC NISP VA <img src="logo-ocbc-nisp.png">
    
-OCBC-NISP VA <img src="logo-ocbc-nisp.png">                     | :x:                                 | :heavy_exclamation_mark:    |
+                      | :x:                                 | :heavy_exclamation_mark:    |
 
 
 
