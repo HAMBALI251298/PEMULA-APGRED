@@ -65,9 +65,7 @@ This tables shows which payment channels that has been implemented by this proxy
 | BTN VA <img src="logo-btn.png">                     | :x:                                 | :heavy_exclamation_mark:    |
 | OCBC NISP VA <img src="logo-ocbc-nisp.png">
    
-                      | :x:                                 | :heavy_exclamation_mark:    |
-
-
+                      
 
 
 <h3 align="left">Languages and Tools</h3>
