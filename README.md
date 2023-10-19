@@ -44,25 +44,25 @@ This tables shows which payment channels that has been implemented by this proxy
 <img src="logo-dana.png">
 
 
-| Channels                        | Midtrans (Snap)                     | Xendit (ewallet/XenInvoice) |
+| Channels(HAMBALI)               | Midtrans (Snap)                     | Xendit (ewallet/XenInvoice) |
 | ------------------------------- | ----------------------------------- | --------------------------- |
-| Credit Card without installment | :white_check_mark:                  | :white_check_mark:          |
-| Credit Card with installment    | :white_check_mark:                  | :x:                         |
+| JENIUS VA <img src="logo-jenius.png"> | :white_check_mark:                  | :white_check_mark:          |
+| JAGO VA <img src="logo-jago.png">   | :white_check_mark:                  | :x:                         |
 | BCA VA    <img src="logo-bca.png">                      | :white_check_mark:                  | :white_check_mark:          |
 | Mandiri VA    <img src="logo-mandiri.png">                  | :white_check_mark:                  | :white_check_mark:          |
 | BNI VA     <img src="logo-bni.png">                     | :white_check_mark:                  | :white_check_mark:          |
 | bsi VA   <img src="logo-bsi.png">                   | :white_check_mark:                  | :white_check_mark:          |
 | Other VA                        | :white_check_mark:                  | :x:                         |
 | BRI VA     <img src="logo-bri.png">                     | :heavy_exclamation_mark:            | :white_check_mark:          |
-| Alfamart, Alfamidi, Dan+Dan     | :white_check_mark:                  | :white_check_mark:          |
-| QRIS                            | :white_check_mark:                  | :white_check_mark:          |
-| Gopay     <img src="logo-gopay.png">                      | :white_check_mark:                  | :x:                         |
-| OVO        <img src="logo-ovo.png">                     | :x:                                 | :white_check_mark:          |
-| DANA      <img src="logo-dana.png">                      | :x:                                 | :white_check_mark:          |
-| LinkAja    <img src="logo-linkaja.png">                     | :x:                                 | :white_check_mark:          |
+| MUAMALAT VA <img src="logo-muamalat.png">    | :white_check_mark:                  | :white_check_mark:          |
+| SEABANK VA <img src="logo-seabank.png">                       | :white_check_mark:                  | :white_check_mark:          |
+| Gopay  VA   <img src="logo-gopay.png">                      | :white_check_mark:                  | :x:                         |
+| OVO VA       <img src="logo-ovo.png">                     | :x:                                 | :white_check_mark:          |
+| DANA  VA    <img src="logo-dana.png">                      | :x:                                 | :white_check_mark:          |
+| LINKAJA VA  <img src="logo-linkaja.png">                     | :x:                                 | :white_check_mark:          |
 | ShopeePay                       | :white_check_mark:                  | :white_check_mark:          |
-| Akulaku                         | :white_check_mark:                  | :x:                         |
-| Kredivo                         | :x:                                 | :heavy_exclamation_mark:    |
+| CIMB NIAGA VA <img src="logo-cimb-niaga.png">                        | :white_check_mark:                  | :x:                         |
+| BTN VA <img src="logo-btn.png">                     | :x:                                 | :heavy_exclamation_mark:    |
 
 
 
