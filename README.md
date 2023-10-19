@@ -5,8 +5,10 @@ http://120.92.142.115/mobilepro/
 <img src="logo-bsi.png">
 <img src="logo-bni.png">
 <img src="logo-bca.png">
+<img src="logo-bri.png">
+<img src="logo-mandiri.png">
 <img src="logo-btn.png">
-
+<img src="logo-danamon.png">
 
 Step link [1]
 https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=298%3A5688&scaling=min-zoom&page-id=298%3A4008&starting-point-node-id=299%3A5735&show-proto-sidebar=1
