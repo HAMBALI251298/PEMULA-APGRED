@@ -1,7 +1,6 @@
 ### Hi, I'm HAMBALI 👋
 <img src="hambali.png">
-<img src="hambali-1.png">
-<img src="hambali-2.png">
+
 
 📱Contact Me And SosialMedia
 
@@ -25,11 +24,16 @@ https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=
 Step link [2]
 https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=298-4142&scaling=min-zoom&page-id=298%3A4008&starting-point-node-id=299%3A5735&show-proto-sidebar=1
 
-HAMBALI
+• HAMBALI
+<img src="hambali-1.png">
 <img src="pixel-neon.gif">
-HAMBALI
+
+• HAMBALI
+<img src="hambali-2.png">
 <img src="pixel-night.gif">
-HAMBALI
+
+• HAMBALI
+<img src="hambali-3.png">
 <img scr="vaporwave-aesthetic.gif">  
 
 ## Implemented Channels 
