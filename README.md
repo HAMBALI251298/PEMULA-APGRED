@@ -25,7 +25,12 @@ https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=
 Step link [2]
 https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=298-4142&scaling=min-zoom&page-id=298%3A4008&starting-point-node-id=299%3A5735&show-proto-sidebar=1
 
+
 • HAMBALI
+You can find the demo here and log in with these credentials.
+👤 Username admin
+🔒 Password pointofsale
+
 <img src="hambali-1.png">
 <img src="pixel-neon.gif">
 
