@@ -27,7 +27,7 @@ https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=
 
 
 • HAMBALI
-
+find the demo here
 <img src="hambali-1.png">
 <img src="pixel-neon.gif">
 
