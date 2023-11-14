@@ -1,5 +1,5 @@
-### Hi, I'm HAMBALI 👋
-https://finapp.bragherstudio.com/view22/app-settings.html
+### EVERYTHING Hi, I'm HAMBALI 👋
+
 <img src="hambali.png">
 
 
@@ -16,7 +16,7 @@ https://finapp.bragherstudio.com/view22/app-settings.html
 • Telpon    : (+6283128356342)
 
 <img src="paymen.png">
-
+https://finapp.bragherstudio.com/view22/app-settings.html
 http://120.92.142.115/mobilepro/
 ▂▂▂▂▂▂╭━╮▂▂▂▂▂▂▂          ▂▂▂▂▂▂┣━┫▂▂▂▂▂▂▂              ▂▂▂▂▂▂┃╭┃▂▂▂▂▂▂▂              ▂▂▂▂╭━┫┈┣━╮▂▂▂▂▂              ▂▂╭━┃╭┃╭┃╭┃━╮▂▂▂ 
 
