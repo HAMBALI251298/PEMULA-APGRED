@@ -13,32 +13,19 @@
 
 • Telpon    : (+6283128356342)
 
-
-https://finapp.bragherstudio.com/view22/app-settings.html
-
-http://120.92.142.115/mobilepro/
-
-
-Step link [1]
-https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=298%3A5688&scaling=min-zoom&page-id=298%3A4008&starting-point-node-id=299%3A5735&show-proto-sidebar=1
-
-Step link [2]
-https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=298-4142&scaling=min-zoom&page-id=298%3A4008&starting-point-node-id=299%3A5735&show-proto-sidebar=1
-
-
-<img src="hambali-1.png">
+CYBER SCURITY 
 <img src="pixel-neon.gif">
 
-<img src="hambali-2.png">
+CYBER SCURITY 
 <img src="pixel-night.gif">
 
-<img src="hambali-3.png">
+
 <img scr="vaporwave-aesthetic.gif">  
 
 ## Implemented Channels 
 
 #PAYMEN BILLING ACCOUNTING
-<img src="hambali.png">
+
 <img src="paymen.png">
 
 ### Nama Rekening
@@ -191,8 +178,26 @@ This tables shows which payment channels that has been implemented by this proxy
 | CIMB NIAGA VA <img src="logo-cimb-niaga.png">                        | :white_check_mark:                  | :x:                         |
 | BTN VA <img src="logo-btn.png">                     | :x:                                 | :heavy_exclamation_mark:    |
 | OCBC NISP VA <img src="logo-ocbc-nisp.png">
+
+https://finapp.bragherstudio.com/view22/app-settings.html
+
+http://120.92.142.115/mobilepro/
+
+
+Step link [1]
+https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=298%3A5688&scaling=min-zoom&page-id=298%3A4008&starting-point-node-id=299%3A5735&show-proto-sidebar=1
+
+Step link [2]
+https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=298-4142&scaling=min-zoom&page-id=298%3A4008&starting-point-node-id=299%3A5735&show-proto-sidebar=1
+
    
-                      
+<img src="hambali-1.png">   
+
+<img src="hambali-2.png">
+
+<img src="hambali-3.png">
+
+<img src="hambali.png">
 
 
 
