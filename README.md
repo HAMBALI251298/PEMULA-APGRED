@@ -1,19 +1,21 @@
 ### Hi, I'm HAMBALI 👋
 <img src="HAMBALI.png">
 
-HAMBALI CYBER SCURITY 
+### HAMBALI CYBER SCURITY 
 <img src="8-Bit Skeletor!.gif">
 
-HAMBALI CYBER SCURITY 
+### HAMBALI CYBER SCURITY 
 <img src="pixel-night.gif">
 
-HAMBALI CYBER SCURITY 
+### HAMBALI CYBER SCURITY 
 <img src="pixel-neon.gif">
 
 <img scr="vaporwave-aesthetic.gif">  
 
+### HAMBALI CYBER SCURITY
 <img src="CYBERSCURITY.png">
 
+### HAMBALI CYBER SCURITY
 <img src="FAMILYCYBER.png">
 
 📱Contact Me And SosialMedia
@@ -85,51 +87,6 @@ BSI
 
 <img src="BSI.png">
 
-### Nama Rekening
-HAMBALI
-💳Nomor Rekening
-083128356342
-🏛️Bank/Ewallet
-PAYPAL
-📞No/Hp/Wa
-083128356342
-
-### Nama Rekening
-HAMBALI
-💳Nomor Rekening
-083128356342
-🏛️Bank/Ewallet
-GoPay
-📞No/Hp/Wa
-083128356342
-
-### Nama Rekening
-HAMBALI
-💳Nomor Rekening
-083128356342
-🏛️Bank/Ewallet
-DANA
-📞No/Hp/Wa
-083128356342
-
-### Nama Rekening
-HAMBALI
-💳Nomor Rekening
-083128356342
-🏛️Bank/Ewallet
-Linkaja
-📞No/Hp/Wa
-083128356342
-
-### Nama Rekening
-HAMBALI
-💳Nomor Rekening
-083128356342
-🏛️Bank/Ewallet
-Filip
-📞No/Hp/Wa
-083128356342
-
 
 <img src="logo-bsi.png">
 <img src="logo-bca.png">
@@ -183,6 +140,51 @@ This tables shows which payment channels that has been implemented by this proxy
 
 ## Implemented Channels 
 <img src="paymen.png">
+
+### Nama Rekening
+HAMBALI
+💳Nomor Rekening
+083128356342
+🏛️Bank/Ewallet
+PAYPAL
+📞No/Hp/Wa
+083128356342
+
+### Nama Rekening
+HAMBALI
+💳Nomor Rekening
+083128356342
+🏛️Bank/Ewallet
+GoPay
+📞No/Hp/Wa
+083128356342
+
+### Nama Rekening
+HAMBALI
+💳Nomor Rekening
+083128356342
+🏛️Bank/Ewallet
+DANA
+📞No/Hp/Wa
+083128356342
+
+### Nama Rekening
+HAMBALI
+💳Nomor Rekening
+083128356342
+🏛️Bank/Ewallet
+Linkaja
+📞No/Hp/Wa
+083128356342
+
+### Nama Rekening
+HAMBALI
+💳Nomor Rekening
+083128356342
+🏛️Bank/Ewallet
+Filip
+📞No/Hp/Wa
+083128356342
 
 
 https://finapp.bragherstudio.com/view22/app-settings.html
