@@ -1,6 +1,14 @@
 ### Hi, I'm HAMBALI 👋
 <img src="HAMBALI.png">
 
+HAMBALI CYBER SCURITY 
+<img src="pixel-neon.gif">
+
+HAMBALI CYBER SCURITY 
+<img src="pixel-night.gif">
+
+<img scr="vaporwave-aesthetic.gif">  
+
 📱Contact Me And SosialMedia
 
 • Linkedlin : (HAMBALI)
@@ -13,20 +21,9 @@
 
 • Telpon    : (+6283128356342)
 
-CYBER SCURITY 
-<img src="pixel-neon.gif">
-
-CYBER SCURITY 
-<img src="pixel-night.gif">
-
-
-<img scr="vaporwave-aesthetic.gif">  
-
-## Implemented Channels 
 
 #PAYMEN BILLING ACCOUNTING
 
-<img src="paymen.png">
 
 ### Nama Rekening
 HAMBALI
@@ -179,6 +176,10 @@ This tables shows which payment channels that has been implemented by this proxy
 | BTN VA <img src="logo-btn.png">                     | :x:                                 | :heavy_exclamation_mark:    |
 | OCBC NISP VA <img src="logo-ocbc-nisp.png">
 
+## Implemented Channels 
+<img src="paymen.png">
+
+
 https://finapp.bragherstudio.com/view22/app-settings.html
 
 http://120.92.142.115/mobilepro/
@@ -186,6 +187,7 @@ http://120.92.142.115/mobilepro/
 
 Step link [1]
 https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=298%3A5688&scaling=min-zoom&page-id=298%3A4008&starting-point-node-id=299%3A5735&show-proto-sidebar=1
+
 
 Step link [2]
 https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=298-4142&scaling=min-zoom&page-id=298%3A4008&starting-point-node-id=299%3A5735&show-proto-sidebar=1
