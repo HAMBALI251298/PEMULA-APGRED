@@ -1,7 +1,5 @@
 ### Hi, I'm HAMBALI 👋
-
-<img src="hambali.png">
-
+<img src="HAMBALI.png">
 
 📱Contact Me And SosialMedia
 
@@ -15,12 +13,10 @@
 
 • Telpon    : (+6283128356342)
 
-<img src="paymen.png">
 
 https://finapp.bragherstudio.com/view22/app-settings.html
 
 http://120.92.142.115/mobilepro/
-▂▂▂▂▂▂╭━╮▂▂▂▂▂▂▂          ▂▂▂▂▂▂┣━┫▂▂▂▂▂▂▂              ▂▂▂▂▂▂┃╭┃▂▂▂▂▂▂▂              ▂▂▂▂╭━┫┈┣━╮▂▂▂▂▂              ▂▂╭━┃╭┃╭┃╭┃━╮▂▂▂ 
 
 
 Step link [1]
@@ -36,14 +32,14 @@ https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=
 <img src="hambali-2.png">
 <img src="pixel-night.gif">
 
-• HAMBALI
 <img src="hambali-3.png">
 <img scr="vaporwave-aesthetic.gif">  
 
 ## Implemented Channels 
 
 #PAYMEN BILLING ACCOUNTING
-
+<img src="hambali.png">
+<img src="paymen.png">
 
 ### Nama Rekening
 HAMBALI
