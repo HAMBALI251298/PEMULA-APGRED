@@ -30,12 +30,9 @@ Step link [2]
 https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=298-4142&scaling=min-zoom&page-id=298%3A4008&starting-point-node-id=299%3A5735&show-proto-sidebar=1
 
 
-• HAMBALI
-
 <img src="hambali-1.png">
 <img src="pixel-neon.gif">
 
-• HAMBALI
 <img src="hambali-2.png">
 <img src="pixel-night.gif">
 
@@ -46,7 +43,7 @@ https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=
 ## Implemented Channels 
 
 #PAYMEN BILLING ACCOUNTING
-<img src="BNI.png">
+
 
 ### Nama Rekening
 HAMBALI
@@ -57,7 +54,7 @@ BNI
 📞No/Hp/Wa
 083128356342
 
-<img src="MANDIRI.png">
+<img src="BNI.png">
 
 ### Nama Rekening
 HAMBALI
@@ -68,7 +65,7 @@ MANDIRI
 📞No/Hp/Wa
 083128356342
 
-<img src="BCA.png">
+<img src="MANDIRI.png">
 
 ### Nama Rekening
 HAMBALI
@@ -79,7 +76,7 @@ BCA
 📞No/Hp/Wa
 083128356342
 
-<img src="BRI.png">
+<img src="BCA.png">
 
 ### Nama Rekening
 HAMBALI
@@ -90,7 +87,7 @@ BRI
 📞No/Hp/Wa
 083128356342
 
-<img src="BSI.png">
+<img src="BRI.png">
 
 ### Nama Rekening
 HAMBALI
@@ -100,6 +97,8 @@ HAMBALI
 BSI
 📞No/Hp/Wa
 083128356342
+
+<img src="BSI.png">
 
 ### Nama Rekening
 HAMBALI
