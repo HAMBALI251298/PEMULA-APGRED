@@ -1,12 +1,17 @@
 ### Hi, I'm HAMBALI 👋
 
 ### HAMBALI CYBER SCURITY
-<img src="HAMBALI-GANTENG.mp4.gif">
+<img src="HAMBALI-GANTENG.mp4.">
    
 
 ### HAMBALI CYBER SCURITY
 <img src="Medical Data Visualization.gif">
 
+### HAMBALI CYBER SCURITY
+<img scr="vaporwave-aesthetic.gif">  
+
+### HAMBALI CYBER SCURITY 
+<img src="pixel-neon.gif">
 
 ### HAMBALI CYBER SCURITY 
 <img src="8-Bit Skeletor!.gif">
@@ -14,10 +19,6 @@
 ### HAMBALI CYBER SCURITY 
 <img src="pixel-night.gif">
 
-### HAMBALI CYBER SCURITY 
-<img src="pixel-neon.gif">
-
-<img scr="vaporwave-aesthetic.gif">  
 
 ### HAMBALI CYBER SCURITY
 <img src="FAMILYCYBER.png">
