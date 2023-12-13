@@ -1,11 +1,12 @@
 ### Hi, I'm HAMBALI 👋
-<img src="HAMBALI.png">
+<img src="hambali.png">
 
-### HAMBALI CYBER SCURITY 
-<img src="pixel-neon.gif">
    
 ### HAMBALI CYBER SCURITY
 <img src="Medical Data Visualization.gif">
+
+### HAMBALI CYBER SCURITY 
+<img src="pixel-neon.gif">
 
 ### HAMBALI CYBER SCURITY 
 <img src="pixel-night.gif">
@@ -13,13 +14,6 @@
 
 ### HAMBALI CYBER SCURITY 
 <img src="8-Bit Skeletor!.gif">
-
-
-### HAMBALI CYBER SCURITY
-<img src="FAMILYCYBER.png">
-
-### HAMBALI CYBER SCURITY
-<img src="CYBERSCURITY.png">
 
 ## PAYMEN BILLING ACCOUNTING
 
@@ -189,6 +183,7 @@ https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=
 Step link [2]
 https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=298-4142&scaling=min-zoom&page-id=298%3A4008&starting-point-node-id=299%3A5735&show-proto-sidebar=1
 
+<img src="HAMBALI.png">
    
 <img src="hambali-1.png">   
 
@@ -196,12 +191,13 @@ https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=
 
 <img src="hambali-3.png">
 
-<img src="hambali.png">
+### HAMBALI CYBER SCURITY
+<img src="FAMILYCYBER.png">
 
-
+### HAMBALI CYBER SCURITY
+<img src="CYBERSCURITY.png">
 
 <h3 align="left">Languages and Tools</h3>
-
 
 <p align="left">Programming Languages:</p>
 <p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> </p>
