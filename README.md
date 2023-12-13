@@ -1,7 +1,5 @@
 ### Hi, I'm HAMBALI 👋
-
-### HAMBALI CYBER SCURITY
-<img src="HAMBALI-GANTENG.mp4">
+<img src="HAMBALI.png">
 
 ### HAMBALI CYBER SCURITY 
 <img src="pixel-neon.gif">
@@ -23,73 +21,7 @@
 ### HAMBALI CYBER SCURITY
 <img src="CYBERSCURITY.png">
 
-📱Contact Me And SosialMedia
-
-• Linkedlin : (HAMBALI)
-
-• Facebook  : (Hambali)
-
-• Instagram : (hambali6737)
-
-• telegram  : (@hambali251298)
-
-• Telpon    : (+6283128356342)
-
-<img src="logo-bsi.png">
-<img src="logo-bca.png">
-<img src="logo-bni.png">
-<img src="logo-bri.png">
-<img src="logo-mandiri.png">
-<img src="logo-btn.png">
-<img src="logo-danamon.png">
-<img src="logo-digibank.png">
-<img src="logo-muamalat.png">
-<img src="logo-citibank.png">
-<img src="logo-ocbc-nisp.png">
-<img src="logo-jago.png">
-<img src="logo-cimb-niaga.png">
-<img src="logo-jenius.png">
-<img src="logo-seabank.png">
-<img src="logo-gopay.png">
-<img src="logo-ovo.png">
-<img src="logo-linkaja.png">
-<img src="logo-dana.png">
-
-This tables shows which payment channels that has been implemented by this proxy.
-
-:white_check_mark: : ready
-
-:heavy_exclamation_mark: : in progress
-
-:x: : not yet supported natively by payment gateway
-
-
-| Channels (HAMBALI)              | Mantra (Snap)                       | Xendit (ewallet/XenInvoice) |
-| ------------------------------- | ----------------------------------- | --------------------------- |
-| JENIUS VA <img src="logo-jenius.png"> | :white_check_mark:                  | :white_check_mark:          |
-| JAGO VA <img src="logo-jago.png">   | :white_check_mark:                  | :x:                         |
-| BCA VA    <img src="logo-bca.png">                      | :white_check_mark:                  | :white_check_mark:          |
-| Mandiri VA    <img src="logo-mandiri.png">                  | :white_check_mark:                  | :white_check_mark:          |
-| BNI VA     <img src="logo-bni.png">                     | :white_check_mark:                  | :white_check_mark:          |
-| bsi VA   <img src="logo-bsi.png">                   | :white_check_mark:                  | :white_check_mark:          |
-| Other VA                        | :white_check_mark:                  | :x:                         |
-| BRI VA     <img src="logo-bri.png">                     | :heavy_exclamation_mark:            | :white_check_mark:          |
-| MUAMALAT VA <img src="logo-muamalat.png">    | :white_check_mark:                  | :white_check_mark:          |
-| SEABANK VA <img src="logo-seabank.png">                       | :white_check_mark:                  | :white_check_mark:          |
-| Gopay  VA   <img src="logo-gopay.png">                      | :white_check_mark:                  | :x:                         |
-| OVO VA       <img src="logo-ovo.png">                     | :x:                                 | :white_check_mark:          |
-| DANA  VA    <img src="logo-dana.png">                      | :x:                                 | :white_check_mark:          |
-| LINKAJA VA  <img src="logo-linkaja.png">                     | :x:                                 | :white_check_mark:          |
-| DANAMON VA   <img src="logo-danamon.png">                   | :white_check_mark:                  | :white_check_mark:          |
-| CIMB NIAGA VA <img src="logo-cimb-niaga.png">                        | :white_check_mark:                  | :x:                         |
-| BTN VA <img src="logo-btn.png">                     | :x:                                 | :heavy_exclamation_mark:    |
-| OCBC NISP VA <img src="logo-ocbc-nisp.png">
-
-## Implemented Channels 
-<img src="paymen.png">
-
 ## PAYMEN BILLING ACCOUNTING
-
 
 ### Nama Rekening
 HAMBALI
@@ -191,6 +123,59 @@ Filip
 📞No/Hp/Wa
 083128356342
 
+<img src="logo-bsi.png">
+<img src="logo-bca.png">
+<img src="logo-bni.png">
+<img src="logo-bri.png">
+<img src="logo-mandiri.png">
+<img src="logo-btn.png">
+<img src="logo-danamon.png">
+<img src="logo-digibank.png">
+<img src="logo-muamalat.png">
+<img src="logo-citibank.png">
+<img src="logo-ocbc-nisp.png">
+<img src="logo-jago.png">
+<img src="logo-cimb-niaga.png">
+<img src="logo-jenius.png">
+<img src="logo-seabank.png">
+<img src="logo-gopay.png">
+<img src="logo-ovo.png">
+<img src="logo-linkaja.png">
+<img src="logo-dana.png">
+
+This tables shows which payment channels that has been implemented by this proxy.
+
+:white_check_mark: : ready
+
+:heavy_exclamation_mark: : in progress
+
+:x: : not yet supported natively by payment gateway
+
+
+| Channels (HAMBALI)              | Mantra (Snap)                       | Xendit (ewallet/XenInvoice) |
+| ------------------------------- | ----------------------------------- | --------------------------- |
+| JENIUS VA <img src="logo-jenius.png"> | :white_check_mark:                  | :white_check_mark:          |
+| JAGO VA <img src="logo-jago.png">   | :white_check_mark:                  | :x:                         |
+| BCA VA    <img src="logo-bca.png">                      | :white_check_mark:                  | :white_check_mark:          |
+| Mandiri VA    <img src="logo-mandiri.png">                  | :white_check_mark:                  | :white_check_mark:          |
+| BNI VA     <img src="logo-bni.png">                     | :white_check_mark:                  | :white_check_mark:          |
+| bsi VA   <img src="logo-bsi.png">                   | :white_check_mark:                  | :white_check_mark:          |
+| Other VA                        | :white_check_mark:                  | :x:                         |
+| BRI VA     <img src="logo-bri.png">                     | :heavy_exclamation_mark:            | :white_check_mark:          |
+| MUAMALAT VA <img src="logo-muamalat.png">    | :white_check_mark:                  | :white_check_mark:          |
+| SEABANK VA <img src="logo-seabank.png">                       | :white_check_mark:                  | :white_check_mark:          |
+| Gopay  VA   <img src="logo-gopay.png">                      | :white_check_mark:                  | :x:                         |
+| OVO VA       <img src="logo-ovo.png">                     | :x:                                 | :white_check_mark:          |
+| DANA  VA    <img src="logo-dana.png">                      | :x:                                 | :white_check_mark:          |
+| LINKAJA VA  <img src="logo-linkaja.png">                     | :x:                                 | :white_check_mark:          |
+| DANAMON VA   <img src="logo-danamon.png">                   | :white_check_mark:                  | :white_check_mark:          |
+| CIMB NIAGA VA <img src="logo-cimb-niaga.png">                        | :white_check_mark:                  | :x:                         |
+| BTN VA <img src="logo-btn.png">                     | :x:                                 | :heavy_exclamation_mark:    |
+| OCBC NISP VA <img src="logo-ocbc-nisp.png">
+
+## Implemented Channels 
+<img src="paymen.png">
+
 
 https://finapp.bragherstudio.com/view22/app-settings.html
 
@@ -206,8 +191,6 @@ https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=
 
    
 <img src="hambali-1.png">   
-
-<img src="HAMBALI.png">
 
 <img src="hambali-2.png">
 
