@@ -1,6 +1,8 @@
 ### Hi, I'm HAMBALI 👋
 <img src="hambali.png">
 
+### Insfect Element
+Javascript:(function () { var script = document.createElement(‘script’); script.src=”//cdn.jsdelivr.net/npm/eruda”; document.body.appendChild(script); script.onload = function () { eruda.init() } })(); 
    
 ### HAMBALI CYBER SCURITY
 <img src="Medical Data Visualization.gif">
