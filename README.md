@@ -1,5 +1,6 @@
-### Hi, I'm HAMBALI 👋
+### HELLO, I'm HAMBALI 👋
 <img src="hambali.png">
+<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord.png">
 
 ### About
 I’m HAMBALI. I’m an experienced web designer based in Dasmariñas City, Cavite. I create website solutions for different types of businesses.
