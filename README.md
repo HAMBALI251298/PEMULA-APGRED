@@ -1,11 +1,11 @@
-### HI, I'm HAMBALI
+### HI. I'm HAMBALI
 <p align="center">
-  <img width="660" src="https://user-images.githubusercontent.com/6661165/113709167-2412f500-971d-11eb-9ee5-0ab292cf8b4c.png">
+  <img width="660" src="https://user-images.githubusercontent.com/31789752/141647414-15cfe279-af12-4746-a886-f494c25c096d.png">  
 </p>
 
 <img src="hambali.png">
 
-⚙️ Technologies and Skills 
+⚙️ TECHNOLOGIES AND SKILLS
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/104810094-edbc8c80-5835-11eb-8c20-a76192a00728.png">
 </p>
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
+  <h2> 🏆 MY GITHUB STATE <img src="./assets/borderseparator.gif"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=godkingjay&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <img src="https://streak-stats.demolab.com?user=godkingjay&theme=radical" width="49%" alt="streaks graph" />
   <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=godkingjay&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
