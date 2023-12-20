@@ -1,6 +1,13 @@
 ### HI,EVERYBODY I'm HAMBALI
 <img src="hambali.png">
 
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/31789752/141647414-15cfe279-af12-4746-a886-f494c25c096d.png">  
+</p>
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix.png">
+
 ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
   <br>
 
@@ -34,9 +41,6 @@
 <div align="center">
   <img src="./assets/pixel-night.gif" alt="pixel city night" width="100%" /><br>
 </div> -->
-
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
 
 ### and here is my stats 🛰️
@@ -87,6 +91,10 @@ Here are some ideas to get you started:
 
 
 <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy).png">
+
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+
 
 
 ### HAMBALI CYBER SCURITY
