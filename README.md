@@ -5,7 +5,7 @@
 
 <img src="hambali.png">
 
-⚙️ TECHNOLOGIES AND SKILLS 🎭
+### ⚙️ TECHNOLOGIES AND SKILLS 🎭
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/113709167-2412f500-971d-11eb-9ee5-0ab292cf8b4c.png">
 </p>
@@ -45,7 +45,7 @@
 </div> -->
 
 
-### and here is my stats 🛰️
+### AND HERE IS MY STATS 🛰️
 <p align="center"><img src="https://www.codewars.com/users/SatriaAPN/badges/large"/><br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=SatriaAPN&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatriaAPN&theme=monokai"/>
@@ -233,26 +233,6 @@ Filip
 📱No/Hp/Wa
 083128356342
 
-<img src="logo-bsi.png">
-<img src="logo-bca.png">
-<img src="logo-bni.png">
-<img src="logo-bri.png">
-<img src="logo-mandiri.png">
-<img src="logo-btn.png">
-<img src="logo-danamon.png">
-<img src="logo-digibank.png">
-<img src="logo-muamalat.png">
-<img src="logo-citibank.png">
-<img src="logo-ocbc-nisp.png">
-<img src="logo-jago.png">
-<img src="logo-cimb-niaga.png">
-<img src="logo-jenius.png">
-<img src="logo-seabank.png">
-<img src="logo-gopay.png">
-<img src="logo-ovo.png">
-<img src="logo-linkaja.png">
-<img src="logo-dana.png">
-
 This tables shows which payment channels that has been implemented by this proxy.
 
 :white_check_mark: : ready
@@ -264,24 +244,24 @@ This tables shows which payment channels that has been implemented by this proxy
 
 | Channels (HAMBALI)              | Mantra (Snap)                       | Xendit (ewallet/XenInvoice) |
 | ------------------------------- | ----------------------------------- | --------------------------- |
-| JENIUS VA <img src="logo-jenius.png"> | :white_check_mark:                  | :white_check_mark:          |
-| JAGO VA <img src="logo-jago.png">   | :white_check_mark:                  | :x:                         |
-| BCA VA    <img src="logo-bca.png">                      | :white_check_mark:                  | :white_check_mark:          |
-| Mandiri VA    <img src="logo-mandiri.png">                  | :white_check_mark:                  | :white_check_mark:          |
-| BNI VA     <img src="logo-bni.png">                     | :white_check_mark:                  | :white_check_mark:          |
-| bsi VA   <img src="logo-bsi.png">                   | :white_check_mark:                  | :white_check_mark:          |
-| Other VA                        | :white_check_mark:                  | :x:                         |
-| BRI VA     <img src="logo-bri.png">                     | :heavy_exclamation_mark:            | :white_check_mark:          |
-| MUAMALAT VA <img src="logo-muamalat.png">    | :white_check_mark:                  | :white_check_mark:          |
-| SEABANK VA <img src="logo-seabank.png">                       | :white_check_mark:                  | :white_check_mark:          |
-| Gopay  VA   <img src="logo-gopay.png">                      | :white_check_mark:                  | :x:                         |
-| OVO VA       <img src="logo-ovo.png">                     | :x:                                 | :white_check_mark:          |
-| DANA  VA    <img src="logo-dana.png">                      | :x:                                 | :white_check_mark:          |
-| LINKAJA VA  <img src="logo-linkaja.png">                     | :x:                                 | :white_check_mark:          |
-| DANAMON VA   <img src="logo-danamon.png">                   | :white_check_mark:                  | :white_check_mark:          |
-| CIMB NIAGA VA <img src="logo-cimb-niaga.png">                        | :white_check_mark:                  | :x:                         |
-| BTN VA <img src="logo-btn.png">                     | :x:                                 | :heavy_exclamation_mark:    |
-| OCBC NISP VA <img src="logo-ocbc-nisp.png">
+|  <img src="logo-jenius.png"> | :white_check_mark:                  | :white_check_mark:          |
+|  <img src="logo-jago.png">   | :white_check_mark:                  | :x:                         |
+|     <img src="logo-bca.png">                      | :white_check_mark:                  | :white_check_mark:          |
+|     <img src="logo-mandiri.png">                  | :white_check_mark:                  | :white_check_mark:          |
+|      <img src="logo-bni.png">                     | :white_check_mark:                  | :white_check_mark:          |
+|    <img src="logo-bsi.png">                   | :white_check_mark:                  | :white_check_mark:          |
+|                         | :white_check_mark:                  | :x:                         |
+|      <img src="logo-bri.png">                     | :heavy_exclamation_mark:            | :white_check_mark:          |
+|  <img src="logo-muamalat.png">    | :white_check_mark:                  | :white_check_mark:          |
+|  <img src="logo-seabank.png">                       | :white_check_mark:                  | :white_check_mark:          |
+|    <img src="logo-gopay.png">                      | :white_check_mark:                  | :x:                         |
+|        <img src="logo-ovo.png">                     | :x:                                 | :white_check_mark:          |
+|     <img src="logo-dana.png">                      | :x:                                 | :white_check_mark:          |
+|   <img src="logo-linkaja.png">                     | :x:                                 | :white_check_mark:          |
+|    <img src="logo-danamon.png">                   | :white_check_mark:                  | :white_check_mark:          |
+|  <img src="logo-cimb-niaga.png">                        | :white_check_mark:                  | :x:                         |
+|  <img src="logo-btn.png">                     | :x:                                 | :heavy_exclamation_mark:    |
+|  <img src="logo-ocbc-nisp.png">
 
 ## Implemented Channels 
 <img src="paymen.png">
@@ -1030,3 +1010,22 @@ I love playing Dj together with my college friends. I go to concerts and gigs as
 ### Insfect Element
 Javascript:(function () { var script = document.createElement(‘script’); script.src=”//cdn.jsdelivr.net/npm/eruda”; document.body.appendChild(script); script.onload = function () { eruda.init() } })(); 
    
+<img src="logo-bsi.png">
+<img src="logo-bca.png">
+<img src="logo-bni.png">
+<img src="logo-bri.png">
+<img src="logo-mandiri.png">
+<img src="logo-btn.png">
+<img src="logo-danamon.png">
+<img src="logo-digibank.png">
+<img src="logo-muamalat.png">
+<img src="logo-citibank.png">
+<img src="logo-ocbc-nisp.png">
+<img src="logo-jago.png">
+<img src="logo-cimb-niaga.png">
+<img src="logo-jenius.png">
+<img src="logo-seabank.png">
+<img src="logo-gopay.png">
+<img src="logo-ovo.png">
+<img src="logo-linkaja.png">
+<img src="logo-dana.png">
