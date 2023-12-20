@@ -1,31 +1,6 @@
 ### HI,EVERYBODY I'm HAMBALI
 <img src="hambali.png">
 
-### and here is my stats 🛰️
-<p align="center"><img src="https://www.codewars.com/users/SatriaAPN/badges/large"/><br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=SatriaAPN&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatriaAPN&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaAPN&layout=compact&theme=monokai&langs_count=12"/><br />
-</p>
-
-<!--
-**HAMBALI 🛰️** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- ðŸ”­ Iâ€™m currently working on ...
-- ðŸŒ± Iâ€™m currently learning ...
-- ðŸ‘¯ Iâ€™m looking to collaborate on ...
-- ðŸ¤” Iâ€™m looking for help with ...
-- ðŸ’¬ Ask me about ...
-- ðŸ“« How to reach me: ...
-- ðŸ˜„ Pronouns: ...
-- âš¡ Fun fact: ...
--->
-
-<p align="center">
-  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
-
 ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
   <br>
 
@@ -62,6 +37,33 @@ Here are some ideas to get you started:
 
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+
+
+### and here is my stats 🛰️
+<p align="center"><img src="https://www.codewars.com/users/SatriaAPN/badges/large"/><br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=SatriaAPN&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatriaAPN&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaAPN&layout=compact&theme=monokai&langs_count=12"/><br />
+</p>
+
+<!--
+**SatriaAPN/SatriaAPN🛰️** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- ðŸ”­ Iâ€™m currently working on ...
+- ðŸŒ± Iâ€™m currently learning ...
+- ðŸ‘¯ Iâ€™m looking to collaborate on ...
+- ðŸ¤” Iâ€™m looking for help with ...
+- ðŸ’¬ Ask me about ...
+- ðŸ“« How to reach me: ...
+- ðŸ˜„ Pronouns: ...
+- âš¡ Fun fact: ...
+-->
+
+<p align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
+
 
 <div align="center">
   <h2> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
@@ -256,17 +258,7 @@ This tables shows which payment channels that has been implemented by this proxy
 <img src="paymen.png">
 
 
-https://finapp.bragherstudio.com/view22/app-settings.html
 
-http://120.92.142.115/mobilepro/
-
-
-Step link [1]
-https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=298%3A5688&scaling=min-zoom&page-id=298%3A4008&starting-point-node-id=299%3A5735&show-proto-sidebar=1
-
-
-Step link [2]
-https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=298-4142&scaling=min-zoom&page-id=298%3A4008&starting-point-node-id=299%3A5735&show-proto-sidebar=1
 
 <img src="HAMBALI.png">
    
@@ -276,11 +268,6 @@ https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=
 
 <img src="hambali-3.png">
 
-### HAMBALI CYBER SCURITY
-<img src="FAMILYCYBER.png">
-
-### HAMBALI CYBER SCURITY
-<img src="CYBERSCURITY.png">
 
 <h3 align="left">Languages and Tools</h3>
 
@@ -983,3 +970,17 @@ I love playing Dj together with my college friends. I go to concerts and gigs as
 ### Insfect Element
 Javascript:(function () { var script = document.createElement(‘script’); script.src=”//cdn.jsdelivr.net/npm/eruda”; document.body.appendChild(script); script.onload = function () { eruda.init() } })(); 
    
+### HAMBALI CYBER SCURITY
+<img src="FAMILYCYBER.png">
+
+Step link [1]
+https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=298%3A5688&scaling=min-zoom&page-id=298%3A4008&starting-point-node-id=299%3A5735&show-proto-sidebar=1
+
+
+
+### HAMBALI CYBER SCURITY
+<img src="CYBERSCURITY.png">
+
+Step link [2]
+https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=298-4142&scaling=min-zoom&page-id=298%3A4008&starting-point-node-id=299%3A5735&show-proto-sidebar=1
+
