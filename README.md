@@ -1,6 +1,6 @@
-### HI,EVERYBODY I'm HAMBALI
+### HI, I'm HAMBALI
 <p align="center">
-  <img width="660" src="https://user-images.githubusercontent.com/31789752/141647414-15cfe279-af12-4746-a886-f494c25c096d.png">  
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/113709581-a0a5d380-971d-11eb-8583-770dc4091ebf.png">
 </p>
 
 <img src="hambali.png">
@@ -9,7 +9,6 @@
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/104810094-edbc8c80-5835-11eb-8c20-a76192a00728.png">
 </p>
-
 
 </strong><img src="./assets/borderseparator.gif"/></h2>
   <br>
@@ -288,13 +287,28 @@ This tables shows which payment channels that has been implemented by this proxy
 
 
 
-
+### HAMBALI CYBER SCURITY
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 <img src="HAMBALI.png">
-   
+
+ ### HAMBALI CYBER SCURITY  
+ <p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 <img src="hambali-1.png">   
 
+### HAMBALI CYBER SCURITY
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 <img src="hambali-2.png">
 
+### HAMBALI CYBER SCURITY
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 <img src="hambali-3.png">
 
 
@@ -969,6 +983,21 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true
   <img width=660 src="https://user-images.githubusercontent.com/6661165/104810887-1d21c800-583b-11eb-8f0d-785c1640dc5d.png">
 </p>
 
+
+### HAMBALI CYBER SCURITY
+<img src="FAMILYCYBER.png">
+
+Step link [1]
+https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=298%3A5688&scaling=min-zoom&page-id=298%3A4008&starting-point-node-id=299%3A5735&show-proto-sidebar=1
+
+
+
+### HAMBALI CYBER SCURITY
+<img src="CYBERSCURITY.png">
+
+Step link [2]
+https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=298-4142&scaling=min-zoom&page-id=298%3A4008&starting-point-node-id=299%3A5735&show-proto-sidebar=1
+
 ### About
 I’m HAMBALI. I’m an experienced web designer based in Dasmariñas City, Cavite. I create website solutions for different types of businesses.
 
@@ -999,17 +1028,3 @@ I love playing Dj together with my college friends. I go to concerts and gigs as
 ### Insfect Element
 Javascript:(function () { var script = document.createElement(‘script’); script.src=”//cdn.jsdelivr.net/npm/eruda”; document.body.appendChild(script); script.onload = function () { eruda.init() } })(); 
    
-### HAMBALI CYBER SCURITY
-<img src="FAMILYCYBER.png">
-
-Step link [1]
-https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=298%3A5688&scaling=min-zoom&page-id=298%3A4008&starting-point-node-id=299%3A5735&show-proto-sidebar=1
-
-
-
-### HAMBALI CYBER SCURITY
-<img src="CYBERSCURITY.png">
-
-Step link [2]
-https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=298-4142&scaling=min-zoom&page-id=298%3A4008&starting-point-node-id=299%3A5735&show-proto-sidebar=1
-
