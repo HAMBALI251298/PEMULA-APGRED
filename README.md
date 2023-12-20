@@ -1,14 +1,17 @@
 ### HI,EVERYBODY I'm HAMBALI
-<img src="hambali.png">
-
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/31789752/141647414-15cfe279-af12-4746-a886-f494c25c096d.png">  
 </p>
 
+<img src="hambali.png">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix.png">
+⚙️ Technologies and Skills 
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/104810094-edbc8c80-5835-11eb-8c20-a76192a00728.png">
+</p>
 
-⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
+
+</strong><img src="./assets/borderseparator.gif"/></h2>
   <br>
 
   <img src="https://github-readme-stats-godkingjay.vercel.app/api/wakatime?username=godkingjay&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
@@ -98,16 +101,34 @@ Here are some ideas to get you started:
 
 
 ### HAMBALI CYBER SCURITY
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/92490273-c91f2b00-f22b-11ea-9481-b5daae4d7bc3.png">
+</p>
+
 <img src="Medical Data Visualization.gif">
 
 ### HAMBALI CYBER SCURITY 
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/99085932-2a88bf00-260c-11eb-9b26-d2f125773831.png">
+</p>
+
+
 <img src="pixel-neon.gif">
 
 ### HAMBALI CYBER SCURITY 
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/131685406-799a864f-2691-4840-bb71-1db9c087a507.png">
+</p>
+
+
 <img src="pixel-night.gif">
 
 
 ### HAMBALI CYBER SCURITY 
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/122048628-7dce2480-ce1c-11eb-9792-1e600b384c4d.png">
+</p>
+
 <img src="8-Bit Skeletor!.gif">
 
 ## PAYMEN BILLING ACCOUNTING
