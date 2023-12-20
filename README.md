@@ -32,6 +32,20 @@
 <a href="https://github.com/lovehacker404/World/network/members"><img title="Forks" src="https://img.shields.io/github/forks/lovehacker404/World?color=red&style=flat-square"></a>
 <a href="https://github.com/lovehacker404/World/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/lovehacker404/World?label=Watchers&color=blue&style=flat-square"></a>
 </p>
+
+<a href="https://HAMBALI251298.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMBALI251298&theme=radical" />
+</a>
+<a href="https://ahmadchen.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HAMBALI251298&show_icons=true&theme=radical&line_height=27" alt="Paceusa github stats" />
+</a>
+
+<a href="https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tangx&repo=Stop-Ask-Questions-The-Stupid-Ways&theme=radical" />
+</a>    
+<a href="https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ryanhanwu&repo=How-To-Ask-Questions-The-Smart-Way&theme=radical" />
+</a>
   
   <h2></h2>
   <h3> <strong> LANGUAGES, FRAMEWORKS, AND TOOLS </strong></h3>
@@ -394,20 +408,6 @@ This tables shows which payment channels that has been implemented by this proxy
 
 <!-- OctoCats -->
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
-
-<a href="https://HAMBALI251298.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMBALI251298&theme=radical" />
-</a>
-<a href="https://ahmadchen.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HAMBALI251298&show_icons=true&theme=radical&line_height=27" alt="Paceusa github stats" />
-</a>
-
-<a href="https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tangx&repo=Stop-Ask-Questions-The-Stupid-Ways&theme=radical" />
-</a>    
-<a href="https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ryanhanwu&repo=How-To-Ask-Questions-The-Smart-Way&theme=radical" />
-</a>
 
 
 ## About Me :wave:
