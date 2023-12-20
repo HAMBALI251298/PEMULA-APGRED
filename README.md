@@ -1,5 +1,8 @@
 ### HELLO, I'm HAMBALI 👋
 <img src="hambali.png">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_dimmed.png">
+
 <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord.png">
 
 ### About
