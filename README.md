@@ -1,6 +1,31 @@
 ### HI,EVERYBODY I'm HAMBALI 👋
 <img src="hambali.png">
 
+### and here is my stats 🛰️
+<p align="center"><img src="https://www.codewars.com/users/SatriaAPN/badges/large"/><br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=SatriaAPN&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatriaAPN&theme=monokai"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaAPN&layout=compact&theme=monokai&langs_count=12"/><br />
+</p>
+
+<!--
+**SatriaAPN/SatriaAPN 🛰️** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- ðŸ”­ Iâ€™m currently working on ...
+- ðŸŒ± Iâ€™m currently learning ...
+- ðŸ‘¯ Iâ€™m looking to collaborate on ...
+- ðŸ¤” Iâ€™m looking for help with ...
+- ðŸ’¬ Ask me about ...
+- ðŸ“« How to reach me: ...
+- ðŸ˜„ Pronouns: ...
+- âš¡ Fun fact: ...
+-->
+
+<p align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
+
 <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy).png">
 
 
@@ -429,30 +454,7 @@ Pixcryption's goal is to offer a new form of steganography/encryption through im
 
 **[myartists](https://github.com/M4cs/M4cs/blob/master/myartists.md)** - Display top listened to artists this week
 
-### and here is my stats 🛰️
-<p align="center"><img src="https://www.codewars.com/users/SatriaAPN/badges/large"/><br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=SatriaAPN&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatriaAPN&theme=monokai"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaAPN&layout=compact&theme=monokai&langs_count=12"/><br />
-</p>
-
-<!--
-**SatriaAPN/SatriaAPN 🛰️** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- ðŸ”­ Iâ€™m currently working on ...
-- ðŸŒ± Iâ€™m currently learning ...
-- ðŸ‘¯ Iâ€™m looking to collaborate on ...
-- ðŸ¤” Iâ€™m looking for help with ...
-- ðŸ’¬ Ask me about ...
-- ðŸ“« How to reach me: ...
-- ðŸ˜„ Pronouns: ...
-- âš¡ Fun fact: ...
--->
-
-<p align="center">
-  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />  
+  
   <h2 align="center">GitHub Profile Trophy</h2>
   <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your readme</p>
 </p>
