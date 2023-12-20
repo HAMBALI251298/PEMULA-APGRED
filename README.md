@@ -7,7 +7,7 @@
 
 ⚙️ TECHNOLOGIES AND SKILLS
 <p align="center">
-  <img width="660" src="https://user-images.githubusercontent.com/6661165/104810094-edbc8c80-5835-11eb-8c20-a76192a00728.png">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/113709167-2412f500-971d-11eb-9ee5-0ab292cf8b4c.png">
 </p>
 
 </strong><img src="./assets/borderseparator.gif"/></h2>
@@ -101,13 +101,14 @@ Here are some ideas to get you started:
 
 ### HAMBALI CYBER SCURITY
 <p align="center">
-  <img width="660" src="https://user-images.githubusercontent.com/6661165/113709167-2412f500-971d-11eb-9ee5-0ab292cf8b4c.png">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/104810094-edbc8c80-5835-11eb-8c20-a76192a00728.png">
 </p>
+
 <img src="Medical Data Visualization.gif">
 
 ### HAMBALI CYBER SCURITY 
 <p align="center">
-  <img width="660" src="https://user-images.githubusercontent.com/6661165/113709167-2412f500-971d-11eb-9ee5-0ab292cf8b4c.png">
+  <img width="660" src="https://user-images.githubusercontent.com/31789752/144701036-285cdd4b-d687-4ddc-95c2-7ccae9e25a1f.png">  
 </p>
 
 
@@ -115,7 +116,7 @@ Here are some ideas to get you started:
 
 ### HAMBALI CYBER SCURITY 
 <p align="center">
-  <img width="660" src="https://user-images.githubusercontent.com/6661165/113709167-2412f500-971d-11eb-9ee5-0ab292cf8b4c.png">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/116633521-adbc8800-a994-11eb-97c4-e45a32721491.png">
 </p>
 
 
@@ -124,12 +125,12 @@ Here are some ideas to get you started:
 
 ### HAMBALI CYBER SCURITY 
 <p align="center">
-  <img width="660" src="https://user-images.githubusercontent.com/6661165/113709167-2412f500-971d-11eb-9ee5-0ab292cf8b4c.png">
+  <img width="735" src="https://user-images.githubusercontent.com/6661165/93668661-e0ca9f00-fac8-11ea-9bec-325454f49fb4.png">
 </p>
 
 <img src="8-Bit Skeletor!.gif">
 
-## PAYMEN BILLING ACCOUNTING
+## PAYMEN ACCOUNTING 💸
 
 ### Nama Rekening
 HAMBALI
@@ -148,7 +149,7 @@ HAMBALI
 1070020002293
 🏛️Bank/Ewallet
 MANDIRI
-📞No/Hp/Wa
+📱No/Hp/Wa
 083128356342
 
 <img src="MANDIRI.png">
@@ -159,7 +160,7 @@ HAMBALI
 6125198485
 🏛️Bank/Ewallet
 BCA
-📞No/Hp/Wa
+📱No/Hp/Wa
 083128356342
 
 <img src="BCA.png">
@@ -170,7 +171,7 @@ HAMBALI
 337901048315530
 🏛️Bank/Ewallet
 BRI
-📞No/Hp/Wa
+📱No/Hp/Wa
 083128356342
 
 <img src="BRI.png">
@@ -181,7 +182,7 @@ HAMBALI
 7250360393
 🏛️Bank/Ewallet
 BSI
-📞No/Hp/Wa
+📱No/Hp/Wa
 083128356342
 
 <img src="BSI.png">
@@ -192,7 +193,7 @@ HAMBALI
 083128356342
 🏛️Bank/Ewallet
 PAYPAL
-📞No/Hp/Wa
+📱No/Hp/Wa
 083128356342
 
 ### Nama Rekening
@@ -210,7 +211,7 @@ HAMBALI
 083128356342
 🏛️Bank/Ewallet
 DANA
-📞No/Hp/Wa
+📱No/Hp/Wa
 083128356342
 
 ### Nama Rekening
@@ -219,7 +220,7 @@ HAMBALI
 083128356342
 🏛️Bank/Ewallet
 Linkaja
-📞No/Hp/Wa
+📱No/Hp/Wa
 083128356342
 
 ### Nama Rekening
@@ -228,7 +229,7 @@ HAMBALI
 083128356342
 🏛️Bank/Ewallet
 Filip
-📞No/Hp/Wa
+📱No/Hp/Wa
 083128356342
 
 <img src="logo-bsi.png">
