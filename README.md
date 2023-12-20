@@ -1,11 +1,11 @@
-### HI. I'm HAMBALI 😉
+### HI. I'm HAMBALI 🎭
 <p align="center">
-  <img width="660" src="https://user-images.githubusercontent.com/31789752/141647414-15cfe279-af12-4746-a886-f494c25c096d.png">  
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/122048400-2af46d00-ce1c-11eb-94e0-c2c6ddaf6819.png">
 </p>
 
 <img src="hambali.png">
 
-### ⚙️ TECHNOLOGIES AND SKILLS 🎭
+⚙️ TECHNOLOGIES AND SKILLS
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/113709167-2412f500-971d-11eb-9ee5-0ab292cf8b4c.png">
 </p>
@@ -15,15 +15,32 @@
 
   <img src="https://github-readme-stats-godkingjay.vercel.app/api/wakatime?username=godkingjay&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
   <br>
+
+</p>
+<p align="center">
+<a href="#"><img title="WhatsApp Num" src="https://img.shields.io/badge/WhatsApp%20Num-083128356342-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<img src="blackmafia5.gif">
+<p align="center">
+<p align="center">
+<a href="https://github.com/lovehacker404"><img title="Author" src="https://img.shields.io/badge/Author-lovehacker404-red.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+<a href="https://github.com/lovehacker404/followers"><img title="Followers" src="https://img.shields.io/github/followers/lovehacker404?color=blue&style=flat-square"></a>
+<a href="https://github.com/lovehacker404/World/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/lovehacker404/World?color=red&style=flat-square"></a>
+<a href="https://github.com/lovehacker404/World/network/members"><img title="Forks" src="https://img.shields.io/github/forks/lovehacker404/World?color=red&style=flat-square"></a>
+<a href="https://github.com/lovehacker404/World/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/lovehacker404/World?label=Watchers&color=blue&style=flat-square"></a>
+</p>
   
   <h2></h2>
-  <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
+  <h3> <strong> LANGUAGES, FRAMEWORKS, AND TOOLS </strong></h3>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,md,babel,nodejs,webpack,vite,html,css,sass,tailwind,materialui,js,ts,react,nextjs,redux,java,cpp,py,md,firebase,mongodb,mysql,regex,svg,atom,eclipse,vscode,postman,netlify,vercel,figma,ai,ps,pr" alt="skills logos" /> <br>
   <h2></h2>
-  <h3> <strong> Actively Learning </strong></h3>
+  <h3> <strong> ACTIVELY LEARNING </strong></h3>
   <img src="https://skillicons.dev/icons?i=django,docker,express,graphql,tensorflow" alt="skills actively learning logos"> <br> 
   <h2></h2>
-  <h3> <strong> Planning to Learn </strong></h3>
+  <h3> <strong> PLANNING TO LEARD </strong></h3>
   <img src="https://skillicons.dev/icons?i=angular,bash,bootstrap,bots,cs,dotnet,electron,flask,heroku,kotlin,kubernetes,linux,lua,pytorch,r,vue" alt="skills planning to learn logos">
 </div>
 
@@ -339,22 +356,6 @@ This tables shows which payment channels that has been implemented by this proxy
   <img alt="lovehacker404' Github Stats" src="https://github-readme-stats.vercel.app/api?username=lovehacker404&show_icons=true&include_all_commits=true&hide_border=true" />
 <!--  <img alt="profile pic" width="195px" src="https://avatars2.githubusercontent.com/u/26059688?s=460&u=d41b000a62eab50d000c3da604d151cec27bd850&v=4" />  -->
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lovehacker404&hide=ruby,perl&hide_border=true" />  -->
-</p>
-<p align="center">
-<a href="#"><img title="WhatsApp Num" src="https://img.shields.io/badge/WhatsApp%20Num-083128356342-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<img src="blackmafia5.gif">
-<p align="center">
-<p align="center">
-<a href="https://github.com/lovehacker404"><img title="Author" src="https://img.shields.io/badge/Author-lovehacker404-red.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/lovehacker404/followers"><img title="Followers" src="https://img.shields.io/github/followers/lovehacker404?color=blue&style=flat-square"></a>
-<a href="https://github.com/lovehacker404/World/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/lovehacker404/World?color=red&style=flat-square"></a>
-<a href="https://github.com/lovehacker404/World/network/members"><img title="Forks" src="https://img.shields.io/github/forks/lovehacker404/World?color=red&style=flat-square"></a>
-<a href="https://github.com/lovehacker404/World/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/lovehacker404/World?label=Watchers&color=blue&style=flat-square"></a>
-</p>
 
 
   <h2 align="center">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
