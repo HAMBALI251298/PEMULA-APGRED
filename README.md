@@ -1,39 +1,9 @@
 ### HI,EVERYBODY I'm HAMBALI 👋
 <img src="hambali.png">
 
-<img src="https://camo.githubusercontent.com/16c9f5abe68b4e26e04c1d94017767230d8ccdc7d7cd76903905ae231bd1c916/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d676f646b696e676a6179267468656d653d7261646963616c266e6f2d6672616d653d74727565266e6f2d62673d7472756526726f773d3126636f6c756d6e3d37.png">
+<img src="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy).png">
 
 
-### About
-I’m HAMBALI. I’m an experienced web designer based in Dasmariñas City, Cavite. I create website solutions for different types of businesses.
-
-### Skills
-I’m a web designer / Front End,Back End developer with more than 3 years of work experience in creating websites, from website mockup using Adobe Photoshop up to making them ‘alive’ on the internet. And yes, they are responsive as well.
-
-Check out my portfolio below to view my most recent projects.
-
-      
-HTML5 & CSS3 95%
-
-Photoshop 85%
-
-Javascript & jQuery 90%
-
-Wordpress 87%
-
-PHP & MySQL 93%
-
-ReactJS and Redux (Learning in progress) 78%
-
-
-
-I love to learn things about Web Development, specially on Javascript. Right now I’m still learning ReactJS and other JS frameworks and looking forward on creating Web Applications sometime in the future.
-
-I love playing Dj together with my college friends. I go to concerts and gigs as well, specially on gigs of our local bands here at Manila.
-
-### Insfect Element
-Javascript:(function () { var script = document.createElement(‘script’); script.src=”//cdn.jsdelivr.net/npm/eruda”; document.body.appendChild(script); script.onload = function () { eruda.init() } })(); 
-   
 ### HAMBALI CYBER SCURITY
 <img src="Medical Data Visualization.gif">
 
@@ -978,3 +948,33 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true
   <img width=660 src="https://user-images.githubusercontent.com/6661165/104810887-1d21c800-583b-11eb-8f0d-785c1640dc5d.png">
 </p>
 
+### About
+I’m HAMBALI. I’m an experienced web designer based in Dasmariñas City, Cavite. I create website solutions for different types of businesses.
+
+### Skills
+I’m a web designer / Front End,Back End developer with more than 3 years of work experience in creating websites, from website mockup using Adobe Photoshop up to making them ‘alive’ on the internet. And yes, they are responsive as well.
+
+Check out my portfolio below to view my most recent projects.
+
+      
+HTML5 & CSS3 95%
+
+Photoshop 85%
+
+Javascript & jQuery 90%
+
+Wordpress 87%
+
+PHP & MySQL 93%
+
+ReactJS and Redux (Learning in progress) 78%
+
+
+
+I love to learn things about Web Development, specially on Javascript. Right now I’m still learning ReactJS and other JS frameworks and looking forward on creating Web Applications sometime in the future.
+
+I love playing Dj together with my college friends. I go to concerts and gigs as well, specially on gigs of our local bands here at Manila.
+
+### Insfect Element
+Javascript:(function () { var script = document.createElement(‘script’); script.src=”//cdn.jsdelivr.net/npm/eruda”; document.body.appendChild(script); script.onload = function () { eruda.init() } })(); 
+   
