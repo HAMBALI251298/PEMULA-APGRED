@@ -1,11 +1,11 @@
-### HI. I'm HAMBALI
+### HI. I'm HAMBALI 😉
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/31789752/141647414-15cfe279-af12-4746-a886-f494c25c096d.png">  
 </p>
 
 <img src="hambali.png">
 
-⚙️ TECHNOLOGIES AND SKILLS
+⚙️ TECHNOLOGIES AND SKILLS 🎭
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/113709167-2412f500-971d-11eb-9ee5-0ab292cf8b4c.png">
 </p>
@@ -125,8 +125,9 @@ Here are some ideas to get you started:
 
 ### HAMBALI CYBER SCURITY 
 <p align="center">
-  <img width="735" src="https://user-images.githubusercontent.com/6661165/93668661-e0ca9f00-fac8-11ea-9bec-325454f49fb4.png">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/92490273-c91f2b00-f22b-11ea-9481-b5daae4d7bc3.png">
 </p>
+
 
 <img src="8-Bit Skeletor!.gif">
 
@@ -138,7 +139,7 @@ HAMBALI
 1732415280
 🏛️Bank/Ewallet
 BNI
-📞No/Hp/Wa
+📱No/Hp/Wa
 083128356342
 
 <img src="BNI.png">
@@ -202,7 +203,7 @@ HAMBALI
 083128356342
 🏛️Bank/Ewallet
 GoPay
-📞No/Hp/Wa
+📱No/Hp/Wa
 083128356342
 
 ### Nama Rekening
@@ -289,25 +290,26 @@ This tables shows which payment channels that has been implemented by this proxy
 
 ### HAMBALI CYBER SCURITY
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img width="660" src="https://user-images.githubusercontent.com/31789752/141647414-15cfe279-af12-4746-a886-f494c25c096d.png">  
 </p>
+
 <img src="HAMBALI.png">
 
  ### HAMBALI CYBER SCURITY  
  <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img width="660" src="https://user-images.githubusercontent.com/31789752/141647414-15cfe279-af12-4746-a886-f494c25c096d.png">  
 </p>
 <img src="hambali-1.png">   
 
 ### HAMBALI CYBER SCURITY
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img width="660" src="https://user-images.githubusercontent.com/31789752/141647414-15cfe279-af12-4746-a886-f494c25c096d.png">  
 </p>
 <img src="hambali-2.png">
 
 ### HAMBALI CYBER SCURITY
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img width="660" src="https://user-images.githubusercontent.com/31789752/141647414-15cfe279-af12-4746-a886-f494c25c096d.png">  
 </p>
 <img src="hambali-3.png">
 
