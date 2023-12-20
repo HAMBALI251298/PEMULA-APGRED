@@ -1,6 +1,6 @@
 ### HI, I'm HAMBALI
 <p align="center">
-  <img width="660" src="https://user-images.githubusercontent.com/6661165/113709581-a0a5d380-971d-11eb-8583-770dc4091ebf.png">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/113709167-2412f500-971d-11eb-9ee5-0ab292cf8b4c.png">
 </p>
 
 <img src="hambali.png">
@@ -101,14 +101,13 @@ Here are some ideas to get you started:
 
 ### HAMBALI CYBER SCURITY
 <p align="center">
-  <img width="660" src="https://user-images.githubusercontent.com/6661165/92490273-c91f2b00-f22b-11ea-9481-b5daae4d7bc3.png">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/113709167-2412f500-971d-11eb-9ee5-0ab292cf8b4c.png">
 </p>
-
 <img src="Medical Data Visualization.gif">
 
 ### HAMBALI CYBER SCURITY 
 <p align="center">
-  <img width="660" src="https://user-images.githubusercontent.com/6661165/99085932-2a88bf00-260c-11eb-9b26-d2f125773831.png">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/113709167-2412f500-971d-11eb-9ee5-0ab292cf8b4c.png">
 </p>
 
 
@@ -116,7 +115,7 @@ Here are some ideas to get you started:
 
 ### HAMBALI CYBER SCURITY 
 <p align="center">
-  <img width="660" src="https://user-images.githubusercontent.com/6661165/131685406-799a864f-2691-4840-bb71-1db9c087a507.png">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/113709167-2412f500-971d-11eb-9ee5-0ab292cf8b4c.png">
 </p>
 
 
@@ -125,7 +124,7 @@ Here are some ideas to get you started:
 
 ### HAMBALI CYBER SCURITY 
 <p align="center">
-  <img width="660" src="https://user-images.githubusercontent.com/6661165/122048628-7dce2480-ce1c-11eb-9792-1e600b384c4d.png">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/113709167-2412f500-971d-11eb-9ee5-0ab292cf8b4c.png">
 </p>
 
 <img src="8-Bit Skeletor!.gif">
