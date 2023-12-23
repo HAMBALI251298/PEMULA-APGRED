@@ -1,11 +1,11 @@
 ### HI. I'm HAMBALI 🎭
-<img src="vidio intro tengkorak.mp4.png">
 
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/122048400-2af46d00-ce1c-11eb-94e0-c2c6ddaf6819.png">
 </p>
 
-<img src="hambali.png">
+<img src="HAMBALI.png">
+
 
 ⚙️ TECHNOLOGIES AND SKILLS
 <p align="center">
@@ -306,7 +306,7 @@ This tables shows which payment channels that has been implemented by this proxy
   <img width="660" src="https://user-images.githubusercontent.com/31789752/141647414-15cfe279-af12-4746-a886-f494c25c096d.png">  
 </p>
 
-<img src="HAMBALI.png">
+<img src="hambali.png">
 
  ### HAMBALI CYBER SCURITY  
  <p align="center">
