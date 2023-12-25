@@ -4,8 +4,12 @@
   <img width="660" src="https://user-images.githubusercontent.com/6661165/122048400-2af46d00-ce1c-11eb-94e0-c2c6ddaf6819.png">
 </p>
 
+<img src="hambali-4.png">
+<img src="hambali-5.png">
+
+https://www.reverbnation.com/artist/djhambali
+
 <img src="HAMBALI.png">
-https://www.reverbnation.com/djhambaliaza
 
 ⚙️ TECHNOLOGIES AND SKILLS
 <p align="center">
