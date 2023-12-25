@@ -4,15 +4,10 @@
   <img width="660" src="https://user-images.githubusercontent.com/6661165/122048400-2af46d00-ce1c-11eb-94e0-c2c6ddaf6819.png">
 </p>
 
-
-https://www.reverbnation.com/artist/djhambali
-
+djhambali
 
 <img src="hambali-5.png">
 
-
-
-<img src="HAMBALI.png">
 
 ⚙️ TECHNOLOGIES AND SKILLS
 <p align="center">
@@ -41,8 +36,6 @@ https://www.reverbnation.com/artist/djhambali
 <a href="https://github.com/lovehacker404/World/network/members"><img title="Forks" src="https://img.shields.io/github/forks/lovehacker404/World?color=red&style=flat-square"></a>
 <a href="https://github.com/lovehacker404/World/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/lovehacker404/World?label=Watchers&color=blue&style=flat-square"></a>
 </p>
-
-<img src="hambali-4.png">
 
 <a href="https://HAMBALI251298.github.io/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMBALI251298&theme=radical" />
@@ -164,8 +157,20 @@ Here are some ideas to get you started:
 </p>
 
 
-<img src="pixel-night.gif">
+### HAMBALI CYBER SCURITY 
+<img src="hambali-4.png">
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/31789752/144701036-285cdd4b-d687-4ddc-95c2-7ccae9e25a1f.png">  
+</p>
 
+### HAMBALI CYBER SCURITY 
+<img src="HAMBALI.png">
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/122048400-2af46d00-ce1c-11eb-94e0-c2c6ddaf6819.png">
+</p>
+
+
+<img src="pixel-night.gif">
 
 ### HAMBALI CYBER SCURITY 
 <p align="center">
