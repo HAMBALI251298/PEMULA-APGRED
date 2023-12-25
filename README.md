@@ -1,13 +1,16 @@
-### HI. I'm HAMBALI 🎭
+### HI. I'm HAMBALI 👩‍💻
 
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/122048400-2af46d00-ce1c-11eb-94e0-c2c6ddaf6819.png">
 </p>
 
-<img src="hambali-4.png">
-<img src="hambali-5.png">
 
 https://www.reverbnation.com/artist/djhambali
+
+
+<img src="hambali-5.png">
+
+
 
 <img src="HAMBALI.png">
 
@@ -38,6 +41,8 @@ https://www.reverbnation.com/artist/djhambali
 <a href="https://github.com/lovehacker404/World/network/members"><img title="Forks" src="https://img.shields.io/github/forks/lovehacker404/World?color=red&style=flat-square"></a>
 <a href="https://github.com/lovehacker404/World/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/lovehacker404/World?label=Watchers&color=blue&style=flat-square"></a>
 </p>
+
+<img src="hambali-4.png">
 
 <a href="https://HAMBALI251298.github.io/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMBALI251298&theme=radical" />
