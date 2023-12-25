@@ -1,12 +1,11 @@
 ### HI. I'm HAMBALI 🎭
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/122048400-2af46d00-ce1c-11eb-94e0-c2c6ddaf6819.png">
 </p>
 
 <img src="HAMBALI.png">
-
+https://www.reverbnation.com/djhambaliaza
 
 ⚙️ TECHNOLOGIES AND SKILLS
 <p align="center">
@@ -130,6 +129,8 @@ Here are some ideas to get you started:
 
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
