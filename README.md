@@ -1,16 +1,14 @@
 ### HI. I'm HAMBALI 👩‍💻
 https://www.reverbnation.com/artist/djhambali
-
+⭐⭐⭐⭐⭐⭐
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/122048400-2af46d00-ce1c-11eb-94e0-c2c6ddaf6819.png">
 </p>
 
 <img src="hambali-5.png">
-⚙️ TECHNOLOGIES AND SKILLS
-<p align="center">
+⚙️ TECHNOLOGIES AND SKILLS <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/113709167-2412f500-971d-11eb-9ee5-0ab292cf8b4c.png">
 </p>
-
 </strong><img src="./assets/borderseparator.gif"/></h2>
   <br>
 
