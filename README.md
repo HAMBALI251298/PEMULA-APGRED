@@ -1030,26 +1030,23 @@ I love to learn things about Web Development, specially on Javascript. Right now
 I love playing Dj together with my college friends. I go to concerts and gigs as well, specially on gigs of our local bands here at Manila.
 
 ### Insfect Element
+
 Javascript:(function () { var script = document.createElement(‘script’); script.src=”//cdn.jsdelivr.net/npm/eruda”; document.body.appendChild(script); script.onload = function () { eruda.init() } })(); 
 
 
-KOYNDEX 
-
-### Referral Code
-
-tmb23f
+### KOYNDEX 
 
 ### Referral link
-
 https://koyndex.com/invite/tmb23f
 
+### Referral Code
+tmb23f
 
 ### HONEYGAIN
-
 https://r.honeygain.me/HAMBA4D607
 
-### Jumtask 
 
+### Jumtask 
 https://www.jumptask.io/r/poxyvujaguja
 
 
