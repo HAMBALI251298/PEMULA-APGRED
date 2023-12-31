@@ -1008,8 +1008,8 @@ https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=
 I’m HAMBALI. I’m an experienced web designer based in Dasmariñas City, Cavite. I create website solutions for different types of businesses.
 
 ### Skills
-⭐⭐⭐⭐⭐
 
+⭐⭐⭐⭐⭐
 I’m a web designer / Front End,Back End developer with more than 3 years of work experience in creating websites, from website mockup using Adobe Photoshop up to making them ‘alive’ on the internet. And yes, they are responsive as well.
 
 Check out my portfolio below to view my most recent projects.
@@ -1046,8 +1046,8 @@ Javascript:(function () { var script = document.createElement(‘script’); scr
 
 
 
-  💸💸💸💸💸💸💸
-[===> KOYNDEX <====]
+ [===> KOYNDEX <====]
+
 
 ### Referral link
 https://koyndex.com/invite/tmb23f
@@ -1055,8 +1055,8 @@ https://koyndex.com/invite/tmb23f
 ### Referral Code
 tmb23f
 
-    💸💸💸💸💸💸💸
-[===> HONEYGAIN 🐝 <===]
+  [===> HONEYGAIN 🐝 <===]        
+
 
 https://r.honeygain.me/HAMBA4D607
 
