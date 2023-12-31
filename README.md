@@ -1001,12 +1001,10 @@ Step link [2]
 https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=298-4142&scaling=min-zoom&page-id=298%3A4008&starting-point-node-id=299%3A5735&show-proto-sidebar=1
 
 ### About
-https://r.honeygain.me/HAMBA4D607
 
 I’m HAMBALI. I’m an experienced web designer based in Dasmariñas City, Cavite. I create website solutions for different types of businesses.
 
 ### Skills
-https://www.jumptask.io/r/poxyvujaguja
 
 I’m a web designer / Front End,Back End developer with more than 3 years of work experience in creating websites, from website mockup using Adobe Photoshop up to making them ‘alive’ on the internet. And yes, they are responsive as well.
 
@@ -1033,6 +1031,30 @@ I love playing Dj together with my college friends. I go to concerts and gigs as
 
 ### Insfect Element
 Javascript:(function () { var script = document.createElement(‘script’); script.src=”//cdn.jsdelivr.net/npm/eruda”; document.body.appendChild(script); script.onload = function () { eruda.init() } })(); 
+
+
+KOYNDEX 
+
+### Referral Code
+
+tmb23f
+
+### Referral link
+
+https://koyndex.com/invite/tmb23f
+
+
+### HONEYGAIN
+
+https://r.honeygain.me/HAMBA4D607
+
+### Jumtask 
+
+https://www.jumptask.io/r/poxyvujaguja
+
+
+
+
    
 <img src="logo-bsi.png">
 <img src="logo-bca.png">
