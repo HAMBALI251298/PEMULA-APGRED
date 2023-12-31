@@ -1,4 +1,5 @@
 ### HI. I'm HAMBALI 👩‍💻
+'or 1=1 limit 1 -- -+
 
 https://www.reverbnation.com/artist/djhambali
 ⭐⭐⭐⭐⭐⭐
@@ -1040,7 +1041,7 @@ Javascript:(function () { var script = document.createElement(‘script’); scr
 <img src="BTC-INDODAX.png">
 1PvfuCUZuN2x15eyDDDXneb5bJbHFVdBhB
 
-### KOYNDEX 
+==> KOYNDEX <==
 
 ### Referral link
 https://koyndex.com/invite/tmb23f
@@ -1048,7 +1049,7 @@ https://koyndex.com/invite/tmb23f
 ### Referral Code
 tmb23f
 
-### HONEYGAIN
+==> HONEYGAIN <==
 https://r.honeygain.me/HAMBA4D607
 
 
