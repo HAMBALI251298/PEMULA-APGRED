@@ -1,6 +1,5 @@
 ### HI. I'm HAMBALI 👩‍💻
 
-'or 1=1 limit 1 -- -+
 
 https://www.reverbnation.com/artist/djhambali
 ⭐⭐⭐⭐⭐⭐
@@ -140,6 +139,8 @@ Here are some ideas to get you started:
 
 
 ### HAMBALI CYBER SCURITY
+'or 1=1 limit 1 -- -+
+
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/104810094-edbc8c80-5835-11eb-8c20-a76192a00728.png">
 </p>
@@ -147,40 +148,55 @@ Here are some ideas to get you started:
 <img src="Medical Data Visualization.gif">
 
 ### HAMBALI CYBER SCURITY 
+'or 1=1 limit 1 -- -+
+
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/31789752/144701036-285cdd4b-d687-4ddc-95c2-7ccae9e25a1f.png">  
 </p>
 
 ### HAMBALI CYBER SCURITY 
+'or 1=1 limit 1 -- -+
+
 <img src="pixel-neon.gif">
 
 ### HAMBALI CYBER SCURITY 
+'or 1=1 limit 1 -- -+
+
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/116633521-adbc8800-a994-11eb-97c4-e45a32721491.png">
 </p>
 
 
 ### HAMBALI CYBER SCURITY 
+'or 1=1 limit 1 -- -+
 <img src="hambali-4.png">
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/31789752/144701036-285cdd4b-d687-4ddc-95c2-7ccae9e25a1f.png">  
 </p>
 
 ### HAMBALI CYBER SCURITY 
+'or 1=1 limit 1 -- -+
+
 <img src="HAMBALI.png">
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/122048400-2af46d00-ce1c-11eb-94e0-c2c6ddaf6819.png">
 </p>
 
 ### HAMBALI CYBER SCURITY 
+'or 1=1 limit 1 -- -+
+
 <img src="pixel-night.gif">
 
 ### HAMBALI CYBER SCURITY 
+'or 1=1 limit 1 -- -+
+
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/92490273-c91f2b00-f22b-11ea-9481-b5daae4d7bc3.png">
 </p>
 
 
+### HAMBALI CYBER SCURITY 
+'or 1=1 limit 1 -- -+
 <img src="8-Bit Skeletor!.gif">
 
 ## PAYMEN ACCOUNTING 💸
@@ -321,25 +337,33 @@ This tables shows which payment channels that has been implemented by this proxy
 
 
 ### HAMBALI CYBER SCURITY
+'or 1=1 limit 1 -- -+
+
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/31789752/141647414-15cfe279-af12-4746-a886-f494c25c096d.png">  
 </p>
 
 <img src="hambali.png">
 
- ### HAMBALI CYBER SCURITY  
+ ### HAMBALI CYBER SCURITY 
+ 'or 1=1 limit 1 -- -+
+
  <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/31789752/141647414-15cfe279-af12-4746-a886-f494c25c096d.png">  
 </p>
 <img src="hambali-1.png">   
 
 ### HAMBALI CYBER SCURITY
+'or 1=1 limit 1 -- -+
+
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/31789752/141647414-15cfe279-af12-4746-a886-f494c25c096d.png">  
 </p>
 <img src="hambali-2.png">
 
 ### HAMBALI CYBER SCURITY
+'or 1=1 limit 1 -- -+
+
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/31789752/141647414-15cfe279-af12-4746-a886-f494c25c096d.png">  
 </p>
@@ -1068,7 +1092,22 @@ https://www.jumptask.io/r/poxyvujaguja
 
 
 
+### TRUST WALLET 📱
+
+Ethereum 💎 🎁
+
+Shabi Token : 0xd375a513692336cf9eebce5e38869b447948016f
+
+Candy AIM : 0xe0d96560a6145c55549c821fb67299317bca0cb8
+
+VGAME VGS : 0x4c9d5672ae33522240532206ab45508116daf263
+
+CSAT: 0x3565402f2936d3284264f03615d065803330e392
+
+Green cap Token: 0xd0834d08c83dbe216811aaea0eeffb2349e57634
    
+
+
 <img src="logo-bsi.png">
 
 <img src="logo-bca.png">
