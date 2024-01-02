@@ -169,6 +169,7 @@ Here are some ideas to get you started:
 
 ### HAMBALI CYBER SCURITY 
 'or 1=1 limit 1 -- -+
+
 <img src="hambali-4.png">
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/31789752/144701036-285cdd4b-d687-4ddc-95c2-7ccae9e25a1f.png">  
@@ -197,6 +198,7 @@ Here are some ideas to get you started:
 
 ### HAMBALI CYBER SCURITY 
 'or 1=1 limit 1 -- -+
+
 <img src="8-Bit Skeletor!.gif">
 
 ## PAYMEN ACCOUNTING 💸
