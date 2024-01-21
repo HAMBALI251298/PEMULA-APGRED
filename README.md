@@ -9,29 +9,6 @@ https://www.reverbnation.com/artist/djhambali
 </p>
 
 
-<img src="hambali-1.png">
-<img src="hambali-2.png">
-<img src="hambali-3.png">
-<img src="hambali-4.png">
-<img src="hambali-5.png">
-<img src="hambali-6.png">
-<img src="hambali-7.png">
-<img src="hambali-8.png">
-<img src="hambali-9.png">
-<img src="hambali-10.png">
-<img src="hambali-11.png">
-<img src="hambali-12.png">
-<img src="hambali-13.png">
-<img src="hambali-14.png">
-<img src="hambali-15.png">
-<img src="hambali-16.png">
-<img src="hambali-17.png">
-<img src="hambali-18.png">
-<img src="hambali-19.png">
-<img src="hambali-20.png">
-
-
-
 ⚙️ TECHNOLOGIES AND SKILLS
 
 <p align="center">
@@ -1141,7 +1118,26 @@ CSAT: 0x3565402f2936d3284264f03615d065803330e392
 
 Green cap Token: 0xd0834d08c83dbe216811aaea0eeffb2349e57634
    
-
+<img src="hambali-1.png">
+<img src="hambali-2.png">
+<img src="hambali-3.png">
+<img src="hambali-4.png">
+<img src="hambali-5.png">
+<img src="hambali-6.png">
+<img src="hambali-7.png">
+<img src="hambali-8.png">
+<img src="hambali-9.png">
+<img src="hambali-10.png">
+<img src="hambali-11.png">
+<img src="hambali-12.png">
+<img src="hambali-13.png">
+<img src="hambali-14.png">
+<img src="hambali-15.png">
+<img src="hambali-16.png">
+<img src="hambali-17.png">
+<img src="hambali-18.png">
+<img src="hambali-19.png">
+<img src="hambali-20.png">
 
 <img src="logo-bsi.png">
 
