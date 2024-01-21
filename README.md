@@ -234,8 +234,6 @@ BNI
 📱No/Hp/Wa
 083128356342
 
-<img src="hambali-6.png">
-
 
 ### Nama Rekening
 HAMBALI
@@ -246,9 +244,6 @@ MANDIRI
 📱No/Hp/Wa
 083128356342
 
-<img src="hambali-11.png">
-
-
 ### Nama Rekening
 HAMBALI
 💳Nomor Rekening
@@ -257,8 +252,6 @@ HAMBALI
 BCA
 📱No/Hp/Wa
 083128356342
-
-<img src="hambali-13.png">
 
 
 ### Nama Rekening
@@ -270,8 +263,6 @@ BRI
 📱No/Hp/Wa
 083128356342
 
-<img src="hambali-14.png">
-
 ### Nama Rekening
 HAMBALI
 💳Nomor Rekening
@@ -280,8 +271,6 @@ HAMBALI
 BSI
 📱No/Hp/Wa
 083128356342
-
-<img src="hambali-6.png">
 
 
 ### Nama Rekening
@@ -292,8 +281,6 @@ HAMBALI
 PAYPAL
 📱No/Hp/Wa
 083128356342
-
-<img src="hambali-17.png">
 
 
 ### Nama Rekening
