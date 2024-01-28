@@ -1,4 +1,6 @@
 ### HI. I'm HAMBALI 👩‍💻
+admin' or 1=1 --
+123456
 <img src="borderseparator.gif"/>
 
 <img src="hambali.png"/>
@@ -144,7 +146,7 @@ Here are some ideas to get you started:
 
 
 ### HAMBALI CYBER SCURITY
-```'or 1=1 limit 1 -- -+
+'or 1=1 limit 1 -- -+
 
 admin' or 1=1 --
 
