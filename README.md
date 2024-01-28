@@ -1,13 +1,14 @@
 ### HI. I'm HAMBALI 👩‍💻
 <img src="borderseparator.gif"/>
-admin' or 1=1 --
+
 <img src="hambali.png"/>
+
+https://www.reverbnation.com/artist/djhambali
+⭐⭐⭐⭐⭐⭐
 
 <img src="https://profile-counter.glitch.me/godkingjay/count.svg" />
 </div>
 
-https://www.reverbnation.com/artist/djhambali
-⭐⭐⭐⭐⭐⭐
 
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/122048400-2af46d00-ce1c-11eb-94e0-c2c6ddaf6819.png">
@@ -143,7 +144,9 @@ Here are some ideas to get you started:
 
 
 ### HAMBALI CYBER SCURITY
-'or 1=1 limit 1 -- -+
+```'or 1=1 limit 1 -- -+
+
+admin' or 1=1 --
 
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/104810094-edbc8c80-5835-11eb-8c20-a76192a00728.png">
@@ -154,6 +157,8 @@ Here are some ideas to get you started:
 ### HAMBALI CYBER SCURITY 
 'or 1=1 limit 1 -- -+
 
+admin' or 1=1 --
+
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/31789752/144701036-285cdd4b-d687-4ddc-95c2-7ccae9e25a1f.png">  
 </p>
@@ -161,10 +166,14 @@ Here are some ideas to get you started:
 ### HAMBALI CYBER SCURITY 
 'or 1=1 limit 1 -- -+
 
+admin' or 1=1 --
+
 <img src="pixel-neon.gif">
 
 ### HAMBALI CYBER SCURITY 
 'or 1=1 limit 1 -- -+
+
+admin' or 1=1 --
 
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/116633521-adbc8800-a994-11eb-97c4-e45a32721491.png">
@@ -174,6 +183,8 @@ Here are some ideas to get you started:
 ### HAMBALI CYBER SCURITY 
 'or 1=1 limit 1 -- -+
 
+admin' or 1=1 --
+
 <img src="hambali-4.png">
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/31789752/144701036-285cdd4b-d687-4ddc-95c2-7ccae9e25a1f.png">  
@@ -181,6 +192,8 @@ Here are some ideas to get you started:
 
 ### HAMBALI CYBER SCURITY 
 'or 1=1 limit 1 -- -+
+
+admin' or 1=1 --
 
 <img src="HAMBALI.png">
 <p align="center">
@@ -190,11 +203,13 @@ Here are some ideas to get you started:
 ### HAMBALI CYBER SCURITY 
 'or 1=1 limit 1 -- -+
 
+admin' or 1=1 --
 <img src="pixel-night.gif">
 
 ### HAMBALI CYBER SCURITY 
 'or 1=1 limit 1 -- -+
 
+admin' or 1=1 --
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/92490273-c91f2b00-f22b-11ea-9481-b5daae4d7bc3.png">
 </p>
@@ -202,6 +217,8 @@ Here are some ideas to get you started:
 
 ### HAMBALI CYBER SCURITY 
 'or 1=1 limit 1 -- -+
+
+admin' or 1=1 --
 
 <img src="8-Bit Skeletor!.gif">
 
