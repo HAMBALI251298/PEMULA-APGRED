@@ -1190,8 +1190,6 @@ Green cap Token: 0xd0834d08c83dbe216811aaea0eeffb2349e57634
 
 <img src="logo-jenius.png">
 
-0x03cf5d93cA7c70Ce0A21a09F4D70779D2c66
-
 <img src="logo-seabank.png">
 
 <img src="logo-gopay.png">
@@ -1201,3 +1199,5 @@ Green cap Token: 0xd0834d08c83dbe216811aaea0eeffb2349e57634
 <img src="logo-linkaja.png">
 
 <img src="logo-dana.png">
+
+0x03cf5d93cA7c70Ce0A21a09F4D70779D2c66
