@@ -1,6 +1,8 @@
 ### HI. I'm HAMBALI 👩‍💻
-admin' or 1=1 --
-123456
+
+usser : admin' or 1=1 --
+password : 123456
+
 <img src="borderseparator.gif"/>
 
 <img src="hambali.png"/>
