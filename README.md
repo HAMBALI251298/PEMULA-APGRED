@@ -1,4 +1,8 @@
 ### HI. I'm HAMBALI 👩‍💻
+<img src="borderseparator.gif"/>
+
+<img src="hambali.png"/>
+
 
 
 https://www.reverbnation.com/artist/djhambali
