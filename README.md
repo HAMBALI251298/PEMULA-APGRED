@@ -1,6 +1,6 @@
 ### HI. I'm HAMBALI 👩‍💻
 <img src="borderseparator.gif"/>
-
+admin' or 1=1 --
 <img src="hambali.png"/>
 
 <img src="https://profile-counter.glitch.me/godkingjay/count.svg" />
