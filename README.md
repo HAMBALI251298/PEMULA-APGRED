@@ -1,4 +1,5 @@
 ### HI. I'm HAMBALI 👩‍💻
+<img src="kombek-1.png"/>
 
 <img src="borderseparator.gif"/>
 
@@ -17,8 +18,6 @@ https://www.reverbnation.com/artist/djhambali
 
 
 ⚙️ TECHNOLOGIES AND SKILLS
-
-<img src="kombek-1.png"/>
 
 <p align="center">
   <img width="660" src="https://user-images.githubusercontent.com/6661165/113709167-2412f500-971d-11eb-9ee5-0ab292cf8b4c.png">
@@ -1043,45 +1042,6 @@ https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=
 ### HAMBALI CYBER SCURITY
 <img src="CYBERSCURITY.png">
 
-Step link [2]
-https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=298-4142&scaling=min-zoom&page-id=298%3A4008&starting-point-node-id=299%3A5735&show-proto-sidebar=1
-
-### About
-⭐⭐⭐⭐⭐
-
-I’m HAMBALI. I’m an experienced web designer based in Dasmariñas City, Cavite. I create website solutions for different types of businesses.
-
-### Skills
-⭐⭐⭐⭐⭐
-
-I’m a web designer / Front End,Back End developer with more than 3 years of work experience in creating websites, from website mockup using Adobe Photoshop up to making them ‘alive’ on the internet. And yes, they are responsive as well.
-
-Check out my portfolio below to view my most recent projects.
-
-      
-HTML5 & CSS3 95%
-
-Photoshop 85%
-
-Javascript & jQuery 90%
-
-Wordpress 87%
-
-PHP & MySQL 93%
-
-ReactJS and Redux (Learning in progress) 78%
-
-
-
-I love to learn things about Web Development, specially on Javascript. Right now I’m still learning ReactJS and other JS frameworks and looking forward on creating Web Applications sometime in the future.
-
-I love playing Dj together with my college friends. I go to concerts and gigs as well, specially on gigs of our local bands here at Manila.
-
-### Insfect Element
-
-Javascript:(function () { var script = document.createElement(‘script’); script.src=”//cdn.jsdelivr.net/npm/eruda”; document.body.appendChild(script); script.onload = function () { eruda.init() } })(); 
-
-
 <img src="hambali-1.png">
 <img src="hambali-2.png">
 <img src="hambali-3.png">
@@ -1102,6 +1062,10 @@ Javascript:(function () { var script = document.createElement(‘script’); scr
 <img src="hambali-18.png">
 <img src="hambali-19.png">
 <img src="hambali-20.png">
+
+Step link [2]
+https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=298-4142&scaling=min-zoom&page-id=298%3A4008&starting-point-node-id=299%3A5735&show-proto-sidebar=1
+
 
 <img src="logo-bsi.png">
 
@@ -1189,3 +1153,5 @@ https://tronax.ink/26988113
 ### CHANELVIP
 https://chanelvip.com/?F254115
 
+### ICE.IO
+https://ice.io/@hambali56789
