@@ -2,7 +2,7 @@
 
 <img src="borderseparator.gif"/>
 
-<img src="hambali.gif"/>
+<img src="hambali.png"/>
 
 https://www.reverbnation.com/artist/djhambali
 ⭐⭐⭐⭐⭐⭐
@@ -225,7 +225,41 @@ admin' or 1=1 --
 
 <img src="8-Bit Skeletor!.gif">
 
-## PAYMEN ACCOUNTING 💸
+
+This tables shows which payment channels that has been implemented by this proxy.
+
+:white_check_mark: : ready
+
+:heavy_exclamation_mark: : in progress
+
+:x: : not yet supported natively by payment gateway
+
+
+| Channels (HAMBALI)              | Mantra (Snap)                       | Xendit (ewallet/XenInvoice) |
+| ------------------------------- | ----------------------------------- | --------------------------- |
+|  <img src="logo-jenius.png"> | :white_check_mark:                  | :white_check_mark:          |
+|  <img src="logo-jago.png">   | :white_check_mark:                  | :x:                         |
+|     <img src="logo-bca.png">                      | :white_check_mark:                  | :white_check_mark:          |
+|     <img src="logo-mandiri.png">                  | :white_check_mark:                  | :white_check_mark:          |
+|      <img src="logo-bni.png">                     | :white_check_mark:                  | :white_check_mark:          |
+|    <img src="logo-bsi.png">                   | :white_check_mark:                  | :white_check_mark:          |
+|                         | :white_check_mark:                  | :x:                         |
+|      <img src="logo-bri.png">                     | :heavy_exclamation_mark:            | :white_check_mark:          |
+|  <img src="logo-muamalat.png">    | :white_check_mark:                  | :white_check_mark:          |
+|  <img src="logo-seabank.png">                       | :white_check_mark:                  | :white_check_mark:          |
+|    <img src="logo-gopay.png">                      | :white_check_mark:                  | :x:                         |
+|        <img src="logo-ovo.png">                     | :x:                                 | :white_check_mark:          |
+|     <img src="logo-dana.png">                      | :x:                                 | :white_check_mark:          |
+|   <img src="logo-linkaja.png">                     | :x:                                 | :white_check_mark:          |
+|    <img src="logo-danamon.png">                   | :white_check_mark:                  | :white_check_mark:          |
+|  <img src="logo-cimb-niaga.png">                        | :white_check_mark:                  | :x:                         |
+|  <img src="logo-btn.png">                     | :x:                                 | :heavy_exclamation_mark:    |
+|  <img src="logo-ocbc-nisp.png">
+
+## Implemented Channels 
+<img src="paymen.png">
+
+### PAYMEN ACCOUNTING 💸
 
 ### Nama Rekening
 HAMBALI
@@ -320,40 +354,6 @@ HAMBALI
 Filip
 📱No/Hp/Wa
 083128356342
-
-This tables shows which payment channels that has been implemented by this proxy.
-
-:white_check_mark: : ready
-
-:heavy_exclamation_mark: : in progress
-
-:x: : not yet supported natively by payment gateway
-
-
-| Channels (HAMBALI)              | Mantra (Snap)                       | Xendit (ewallet/XenInvoice) |
-| ------------------------------- | ----------------------------------- | --------------------------- |
-|  <img src="logo-jenius.png"> | :white_check_mark:                  | :white_check_mark:          |
-|  <img src="logo-jago.png">   | :white_check_mark:                  | :x:                         |
-|     <img src="logo-bca.png">                      | :white_check_mark:                  | :white_check_mark:          |
-|     <img src="logo-mandiri.png">                  | :white_check_mark:                  | :white_check_mark:          |
-|      <img src="logo-bni.png">                     | :white_check_mark:                  | :white_check_mark:          |
-|    <img src="logo-bsi.png">                   | :white_check_mark:                  | :white_check_mark:          |
-|                         | :white_check_mark:                  | :x:                         |
-|      <img src="logo-bri.png">                     | :heavy_exclamation_mark:            | :white_check_mark:          |
-|  <img src="logo-muamalat.png">    | :white_check_mark:                  | :white_check_mark:          |
-|  <img src="logo-seabank.png">                       | :white_check_mark:                  | :white_check_mark:          |
-|    <img src="logo-gopay.png">                      | :white_check_mark:                  | :x:                         |
-|        <img src="logo-ovo.png">                     | :x:                                 | :white_check_mark:          |
-|     <img src="logo-dana.png">                      | :x:                                 | :white_check_mark:          |
-|   <img src="logo-linkaja.png">                     | :x:                                 | :white_check_mark:          |
-|    <img src="logo-danamon.png">                   | :white_check_mark:                  | :white_check_mark:          |
-|  <img src="logo-cimb-niaga.png">                        | :white_check_mark:                  | :x:                         |
-|  <img src="logo-btn.png">                     | :x:                                 | :heavy_exclamation_mark:    |
-|  <img src="logo-ocbc-nisp.png">
-
-## Implemented Channels 
-<img src="paymen.png">
-
 
 
 ### HAMBALI CYBER SCURITY
@@ -1082,67 +1082,6 @@ I love playing Dj together with my college friends. I go to concerts and gigs as
 Javascript:(function () { var script = document.createElement(‘script’); script.src=”//cdn.jsdelivr.net/npm/eruda”; document.body.appendChild(script); script.onload = function () { eruda.init() } })(); 
 
 
-
-### INDODAX WALLET 
-
-<img src="BTC-INDODAX.png">
-
-1PvfuCUZuN2x15eyDDDXneb5bJbHFVdBhB
-
-
-
-
-[===>  Zetlax 📱 <===]   
-
-
-### Referral link
-https://zetlax.com/en?fbclid=PAAabF27mUePGvmkltwvMQWTAIzgzW3XQtxVU0jwyNIub2JTZcA3opcJZHklU
-
-
-### Referral Code
-Zetlax02
-
- 
-[===>  KOYANDEX 📱 <===]        
-
-
-### Referral link
-https://koyndex.com/invite/tmb23f
-
-### Referral Code
-tmb23f
-
-  [===> HONEYGAIN 🐝 <===]        
-
-
-https://r.honeygain.me/HAMBA4D607
-
-
-### Jumtask 
-https://www.jumptask.io/r/poxyvujaguja
-
-
-
-
-### BINANCE
-https://www.binance.info/en/activity/referral-entry/NYR24?fromActivityPage=true&ref=LIMIT_NYRWQVO4
-
-
-
-### TRUST WALLET 📱
-
-Ethereum 💎 🎁
-
-Shabi Token : 0xd375a513692336cf9eebce5e38869b447948016f
-
-Candy AIM : 0xe0d96560a6145c55549c821fb67299317bca0cb8
-
-VGAME VGS : 0x4c9d5672ae33522240532206ab45508116daf263
-
-CSAT: 0x3565402f2936d3284264f03615d065803330e392
-
-Green cap Token: 0xd0834d08c83dbe216811aaea0eeffb2349e57634
-   
 <img src="hambali-1.png">
 <img src="hambali-2.png">
 <img src="hambali-3.png">
@@ -1202,4 +1141,51 @@ Green cap Token: 0xd0834d08c83dbe216811aaea0eeffb2349e57634
 
 <img src="logo-dana.png">
 
-0x03cf5d93cA7c70Ce0A21a09F4D70779D2c66
+### INDODAX WALLET 
+
+<img src="BTC-INDODAX.png">
+
+1PvfuCUZuN2x15eyDDDXneb5bJbHFVdBhB
+
+
+
+[===>  Zetlax 📱 <===]   
+
+
+### Referral link
+https://zetlax.com/en?fbclid=PAAabF27mUePGvmkltwvMQWTAIzgzW3XQtxVU0jwyNIub2JTZcA3opcJZHklU
+
+
+### Referral Code
+Zetlax02
+
+ 
+[===>  KOYANDEX 📱 <===]        
+
+
+### Referral link
+https://koyndex.com/invite/tmb23f
+
+### Referral Code
+tmb23f
+      
+
+### HONYGAIN
+https://r.honeygain.me/HAMBA4D607
+
+
+### Jumtask 
+https://www.jumptask.io/r/poxyvujaguja
+
+
+### BINANCE
+https://www.binance.info/en/activity/referral-entry/NYR24?fromActivityPage=true&ref=LIMIT_NYRWQVO4
+
+
+### TRONAX
+https://tronax.ink/26988113
+
+
+### CHANELVIP
+https://chanelvip.com/?F254115
+
