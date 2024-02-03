@@ -2,7 +2,7 @@
 
 <img src="borderseparator.gif"/>
 
-<img src="hambali.png"/>
+<img src="hambali.gif"/>
 
 https://www.reverbnation.com/artist/djhambali
 ⭐⭐⭐⭐⭐⭐
