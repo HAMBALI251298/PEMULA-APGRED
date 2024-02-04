@@ -1,5 +1,4 @@
 ### HI. I'm HAMBALI 👩‍💻
-<img src="kombek-1.png"/>
 
 <img src="borderseparator.gif"/>
 
@@ -143,7 +142,7 @@ Here are some ideas to get you started:
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
+<img src="kombek-1.png"/>
 
 ### HAMBALI CYBER SCURITY
 'or 1=1 limit 1 -- -+
@@ -1120,38 +1119,39 @@ https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=
 https://zetlax.com/en?fbclid=PAAabF27mUePGvmkltwvMQWTAIzgzW3XQtxVU0jwyNIub2JTZcA3opcJZHklU
 
 
-### Referral Code
-Zetlax02
-
+INVITATION CODE : Zetlax02
  
 [===>  KOYANDEX 📱 <===]        
-
 
 ### Referral link
 https://koyndex.com/invite/tmb23f
 
-### Referral Code
-tmb23f
+INVITATION CODE : tmb23f
       
-
 ### HONYGAIN
 https://r.honeygain.me/HAMBA4D607
-
 
 ### Jumtask 
 https://www.jumptask.io/r/poxyvujaguja
 
-
-### BINANCE
-https://www.binance.info/en/activity/referral-entry/NYR24?fromActivityPage=true&ref=LIMIT_NYRWQVO4
-
-
 ### TRONAX
 https://tronax.ink/26988113
-
 
 ### CHANELVIP
 https://chanelvip.com/?F254115
 
 ### ICE.IO
 https://ice.io/@hambali56789
+
+### BUFFALLO NETWORK
+https://play.google.com/store/apps/details?id=com.crypto.buffalonetwork
+
+INVITAION CODE : 789198
+
+### BITKEEP
+https://share.bwb.site/inviteLink?code=pBBvLT&shareLang=id
+
+INVITATION CODE : pBBvLT
+
+### BINANCE
+https://www.binance.info/en/activity/referral-entry/NYR24?fromActivityPage=true&ref=LIMIT_NYRWQVO4
