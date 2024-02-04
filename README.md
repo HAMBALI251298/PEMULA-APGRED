@@ -4,6 +4,8 @@
 
 <img src="hambali.png"/>
 
+<img src="borderseparator.gif"/>
+
 https://www.reverbnation.com/artist/djhambali
 ⭐⭐⭐⭐⭐⭐
 
@@ -1104,6 +1106,10 @@ https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=
 
 <img src="logo-dana.png">
 
+### SCAN APP
+https://ethscan.app/
+
+
 ### INDODAX WALLET 
 
 <img src="BTC-INDODAX.png">
@@ -1156,4 +1162,3 @@ INVITATION CODE : pBBvLT
 ### BINANCE
 https://www.binance.info/en/activity/referral-entry/NYR24?fromActivityPage=true&ref=LIMIT_NYRWQVO4
 
-https://ethscan.app/
