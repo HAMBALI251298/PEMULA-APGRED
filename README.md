@@ -1,5 +1,4 @@
-### HI. I'm HAMBALI 👩‍💻
-###HACKER
+### HI. I'm HAMBALI 👩
 
 <img src="borderseparator.gif"/>
 
