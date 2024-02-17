@@ -1,4 +1,4 @@
-### HI. I'm HAMBALI 👩
+ ### HI. I'm HAMBALI  👩‍💻
 
 <img src="borderseparator.gif"/>
 
