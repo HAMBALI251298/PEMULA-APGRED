@@ -4,6 +4,11 @@
 
 <img src="hambali.png"/>
 
+KEBOHONGAN MEMBUAT KITA KEHILANGAN KEPERCAYAAN
+DAN TEMAN YANG BISA MEMBANTU KITA
+LALU KEBOHONGAN MEMBUAT KITA KEHILANGAN DIRI
+
+
 https://iancoleman.io/bip39/
 
 <img src="borderseparator.gif"/>
