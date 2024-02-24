@@ -4,12 +4,15 @@
 
 <img src="hambali.png"/>
 
-KEBOHONGAN MEMBUAT KITA KEHILANGAN KEPERCAYAAN
-DAN TEMAN YANG BISA MEMBANTU KITA
-LALU KEBOHONGAN MEMBUAT KITA KEHILANGAN DIRI
+KEBOHONGAN MEMBUAT KITA KEHILANGAN KEPERCAYAAN,
+DAN TEMAN-TEMAN YANG BISA MEMBANTU KITA
+LALU KEBOHONGAN MEMBUAT KITA KEHILANGAN DIRI.
 
-
+1️⃣### SCAN Phrase Bitcoin
 https://iancoleman.io/bip39/
+
+2️⃣### SCAN APP Bitcoin
+https://ethscan.app/
 
 <img src="borderseparator.gif"/>
 
@@ -1122,10 +1125,6 @@ https://www.figma.com/proto/BPY38rf9eWYkYizxgB9BJh/Prototype-BSI-Mobile?node-id=
 
 https://linkpays.in/TQ5x 😊
 https://linkpays.in/TQ5x 😊
-
-
-### SCAN APP
-https://ethscan.app/
 
 
 ### INDODAX WALLET 
