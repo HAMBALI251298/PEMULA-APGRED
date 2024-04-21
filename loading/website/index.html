@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loading Animation</title>
+    <style>
+
+        h2{
+            font-family: sans-serif;
+            text-align: center;
+            margin-bottom: 8px;
+            letter-spacing: 3px;
+        }
+        .line-box{
+            width: 200px;
+            height: 15px;
+            border: 2px solid #267591;
+            border-radius: 12px;
+            padding: 1px;
+            margin: 0 auto;
+        }
+
+
+        .line{
+            height: 100%;
+            border-radius: 12px;
+            background-color: #67D295;
+            animation: loader 6s linear infinite;
+        }
+        @keyframes loader {
+            0%{width: 0%;}
+            100%{width: 100%;}
+        }
+    </style>
+</head>
+<body>
+
+    <div class="loader">
+        <h2>Loading...</h2>
+        <div class="line-box">
+            <div class="line"></div>
+        </div>
+    </div>
+    
+</body>
+</html>
