@@ -8,6 +8,9 @@ KEBOHONGAN MEMBUAT KITA KEHILANGAN KEPERCAYAAN,
 DAN TEMAN-TEMAN YANG BISA MEMBANTU KITA
 LALU KEBOHONGAN MEMBUAT KITA KEHILANGAN DIRI.
 
+3️⃣###SeedBrutoForce Software 
+https://seed-bruto-force.itch.io/seedbrutoforce
+
 1️⃣### SCAN Phrase Bitcoin
 https://iancoleman.io/bip39/
 
