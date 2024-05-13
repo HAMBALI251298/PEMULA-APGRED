@@ -8,18 +8,20 @@ KEBOHONGAN MEMBUAT KITA KEHILANGAN KEPERCAYAAN,
 DAN TEMAN-TEMAN YANG BISA MEMBANTU KITA
 LALU KEBOHONGAN MEMBUAT KITA KEHILANGAN DIRI.
 
-1️⃣### SCAN Phrase Bitcoin
+1️⃣### Scan Phrase Bitcoin
 https://iancoleman.io/bip39/
 
-2️⃣### SCAN App Bitcoin
+2️⃣### Scan App Bitcoin
 https://ethscan.app/
 
-3️⃣###SeedBrutoForce Software 
+3️⃣###SeedBrutoForce
 https://seed-bruto-force.itch.io/seedbrutoforce
 
 4️⃣###
-Open Here Older
+Open Here
 https://shopde.invalidnost-uspeh.com/content?c=brute+force+crypto+wallet&id=25
+
+<img src="329786131-33202e48-fcfd-4f74-bead-62845e691a49.gif"/>
 
 <img src="borderseparator.gif"/>
 
