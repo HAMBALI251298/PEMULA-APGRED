@@ -17,9 +17,11 @@ https://ethscan.app/
 3️⃣###SeedBrutoForce
 https://seed-bruto-force.itch.io/seedbrutoforce
 
-4️⃣###
-Open Here
+4️⃣###Open Here
 https://shopde.invalidnost-uspeh.com/content?c=brute+force+crypto+wallet&id=25
+
+5️⃣ Open Here
+https://crypto-wallet-spotter.sellfy.store/products/
 
 <img src="329786131-33202e48-fcfd-4f74-bead-62845e691a49.gif"/>
 
